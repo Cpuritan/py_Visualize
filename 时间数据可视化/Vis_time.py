@@ -55,4 +55,4 @@ pol1 = (
 
 page = Page(layout=Page.DraggablePageLayout)
 page.add(bar, pol, pol1)
-page.render("hot_dogs_鲍其峰.html")
+page.render("hot_dogs_BQF.html")

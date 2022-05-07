@@ -13,7 +13,7 @@ area = ["金融", "医疗保健", "市场业", "零售业", "制造业", "司法
 vote = [172, 136, 135, 101, 80, 68, 50, 29, 41]
 # 绘制饼图
 plt.pie(vote, labels=area, autopct='%.1f%%')  # 显示百分比
-plt.title("感兴趣的数据领域_鲍其峰")
+plt.title("感兴趣的数据领域_BQF")
 plt.show()
 
 pie = (
@@ -28,7 +28,7 @@ pie = (
 # 绘制环形图
 plt.pie(vote, labels=area, autopct='%1.1f%%', startangle=90, counterclock=False, radius=0.9)
 plt.pie([1], radius=0.3, colors='w', labeldistance=-0.0001)
-plt.title("感兴趣的数据领域_环形图_鲍其峰")
+plt.title("感兴趣的数据领域_环形图_BQF")
 plt.show()
 
 pie_huan = (
@@ -38,7 +38,7 @@ pie_huan = (
         .set_global_opts(title_opts=opts.TitleOpts(title="感兴趣的数据领域"))
         .set_series_opts(label_opts=opts.LabelOpts(formatter="领域:{b}---票数{c}比例{d}%", position='inside'))  #
         # .set_series_opts(label_opts=opts.LabelOpts(formatter="领域:{b}))
-        .render("环形图_鲍其峰.html")
+        .render("环形图_BQF.html")
 )
 # 绘制堆叠柱状图
 question = ["种族问题", "教育", "恐怖活动", "能源政策", "外交事务", "环境", "宗教政策",
@@ -54,7 +54,7 @@ l3 = plt.bar(np.arange(len(question)), noview, fc='y', width=0.3, bottom=ddd)
 plt.legend(handles=[l1[0], l2[0], l3[0]], labels=['支持', '反对', '不发表意见'])
 plt.xticks(np.arange(len(question)), question, rotation=45)
 plt.ylabel('票数')
-plt.title('奥巴马政治举措投票情况可视化_鲍其峰')
+plt.title('奥巴马政治举措投票情况可视化_BQF')
 plt.show()
 
 # 绘制矩阵层级图
@@ -105,7 +105,7 @@ c = (
     TreeMap()
     .add("标准矩阵树图", data)
     .set_global_opts(title_opts=opts.TitleOpts(title="标准矩阵树图"))
-    .render("矩阵树图_鲍其峰.html")
+    .render("矩阵树图_BQF.html")
 )
 
 # 可视化美国1860年—2005年间人口老龄化的变化情况
@@ -128,5 +128,5 @@ Line_square = (
     .add_yaxis(series_name=">65 years", y_axis=list(t_65), stack="stack", is_smooth=True, is_connect_nones=True)
     .set_global_opts(title_opts=opts.TitleOpts(title="人口老龄化趋势图"))
     .set_series_opts(areastyle_opts=opts.AreaStyleOpts(opacity=0.5))
-    .render("square_鲍其峰.html")
+    .render("square_BQF.html")
     )

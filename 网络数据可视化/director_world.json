@@ -1,58 +1,40 @@
 [
   [
     {
-      "name": "马克·赫尔曼",
-      "category": "英国",
+      "name": "文牧野",
+      "category": "中国",
       "value": 19,
       "symbolSize": 19
     },
     {
-      "name": "达米恩·查泽雷",
-      "category": "美国",
-      "value": 23,
-      "symbolSize": 23
-    },
-    {
-      "name": "森淳一",
-      "category": "日本",
-      "value": 5,
-      "symbolSize": 5
-    },
-    {
-      "name": "乔治·米勒",
-      "category": "澳大利亚",
-      "value": 15,
-      "symbolSize": 15
-    },
-    {
-      "name": "瑞奇·摩尔",
-      "category": "美国",
-      "value": 62,
-      "symbolSize": 62
-    },
-    {
-      "name": "周申",
+      "name": "刘伟强",
       "category": "中国",
-      "value": 12,
-      "symbolSize": 12
+      "value": 18,
+      "symbolSize": 18
     },
     {
-      "name": "让-马克·瓦雷",
+      "name": "昆汀·塔伦蒂诺",
       "category": "美国",
+      "value": 43,
+      "symbolSize": 43
+    },
+    {
+      "name": "亚当·艾略特",
+      "category": "澳大利亚",
       "value": 13,
       "symbolSize": 13
     },
     {
-      "name": "克里斯·桑德斯",
+      "name": "拉斯·霍尔斯道姆",
       "category": "美国",
-      "value": 21,
-      "symbolSize": 21
+      "value": 8,
+      "symbolSize": 8
     },
     {
-      "name": "理查德·林克莱特",
-      "category": "美国",
-      "value": 35,
-      "symbolSize": 35
+      "name": "新海诚",
+      "category": "日本",
+      "value": 16,
+      "symbolSize": 16
     },
     {
       "name": "克林特·伊斯特伍德",
@@ -61,176 +43,20 @@
       "symbolSize": 5
     },
     {
-      "name": "特瑞·乔治",
-      "category": "英国",
-      "value": 14,
-      "symbolSize": 14
-    },
-    {
-      "name": "让-皮埃尔·热内",
-      "category": "法国",
-      "value": 25,
-      "symbolSize": 25
-    },
-    {
-      "name": "岩井俊二",
-      "category": "日本",
-      "value": 22,
-      "symbolSize": 22
-    },
-    {
-      "name": "唐澄",
-      "category": "中国",
-      "value": 7,
-      "symbolSize": 7
-    },
-    {
-      "name": "今敏",
-      "category": "日本",
-      "value": 77,
-      "symbolSize": 77
-    },
-    {
-      "name": "比利·怀德",
-      "category": "美国",
-      "value": 11,
-      "symbolSize": 11
-    },
-    {
-      "name": "史蒂文·斯皮尔伯格",
-      "category": "美国",
-      "value": 155,
-      "symbolSize": 155
-    },
-    {
-      "name": "吉恩·凯利",
-      "category": "美国",
-      "value": 53,
-      "symbolSize": 53
-    },
-    {
-      "name": "朗·霍华德",
-      "category": "美国",
-      "value": 46,
-      "symbolSize": 46
-    },
-    {
-      "name": "黑泽明",
-      "category": "日本",
-      "value": 49,
-      "symbolSize": 49
-    },
-    {
       "name": "史蒂芬·戴德利",
       "category": "美国",
       "value": 15,
       "symbolSize": 15
     },
     {
-      "name": "阿尼什·查甘蒂",
+      "name": "皮埃尔·柯芬",
       "category": "美国",
-      "value": 24,
-      "symbolSize": 24
+      "value": 18,
+      "symbolSize": 18
     },
     {
-      "name": "托尼·凯耶",
+      "name": "路易·西霍尤斯",
       "category": "美国",
-      "value": 26,
-      "symbolSize": 26
-    },
-    {
-      "name": "奉俊昊",
-      "category": "韩国",
-      "value": 33,
-      "symbolSize": 33
-    },
-    {
-      "name": "克里斯·威廉姆斯",
-      "category": "美国",
-      "value": 15,
-      "symbolSize": 15
-    },
-    {
-      "name": "陆川",
-      "category": "中国",
-      "value": 6,
-      "symbolSize": 6
-    },
-    {
-      "name": "张艺谋",
-      "category": "中国",
-      "value": 15,
-      "symbolSize": 15
-    },
-    {
-      "name": "李安",
-      "category": "美国",
-      "value": 77,
-      "symbolSize": 77
-    },
-    {
-      "name": "斯坦利·库布里克",
-      "category": "英国",
-      "value": 11,
-      "symbolSize": 11
-    },
-    {
-      "name": "丹尼斯·甘塞尔",
-      "category": "德国",
-      "value": 10,
-      "symbolSize": 10
-    },
-    {
-      "name": "费尔南多·梅里尔斯",
-      "category": "巴西",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": " 雅克·克鲁奥德",
-      "category": "法国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "J·麦基·格鲁伯",
-      "category": "美国",
-      "value": 16,
-      "symbolSize": 16
-    },
-    {
-      "name": "娜丁·拉巴基",
-      "category": "黎巴嫩 ",
-      "value": 10,
-      "symbolSize": 10
-    },
-    {
-      "name": "大森贵弘",
-      "category": "日本",
-      "value": 6,
-      "symbolSize": 6
-    },
-    {
-      "name": "洛芙琳·坦丹",
-      "category": "英国",
-      "value": 11,
-      "symbolSize": 11
-    },
-    {
-      "name": "罗伯托·贝尼尼",
-      "category": "意大利",
-      "value": 27,
-      "symbolSize": 27
-    },
-    {
-      "name": "李焕庆",
-      "category": "韩国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "伦尼·阿伯拉罕森",
-      "category": "爱尔兰",
       "value": 15,
       "symbolSize": 15
     },
@@ -241,34 +67,16 @@
       "symbolSize": 12
     },
     {
-      "name": "藤森雅也",
-      "category": "日本",
-      "value": 18,
-      "symbolSize": 18
+      "name": "杨宇硕",
+      "category": "韩国",
+      "value": 15,
+      "symbolSize": 15
     },
     {
-      "name": "北野武",
-      "category": "日本",
-      "value": 13,
-      "symbolSize": 13
-    },
-    {
-      "name": "亚当·艾略特",
-      "category": "澳大利亚",
-      "value": 13,
-      "symbolSize": 13
-    },
-    {
-      "name": "吕克·贝松",
-      "category": "法国",
-      "value": 16,
-      "symbolSize": 16
-    },
-    {
-      "name": "马丁·斯科塞斯",
-      "category": "美国",
-      "value": 14,
-      "symbolSize": 14
+      "name": "杨德昌",
+      "category": "中国",
+      "value": 29,
+      "symbolSize": 29
     },
     {
       "name": "莫滕·泰杜姆",
@@ -277,220 +85,64 @@
       "symbolSize": 31
     },
     {
-      "name": "徐克",
-      "category": "中国",
+      "name": "杰茜·尼尔森",
+      "category": "美国",
       "value": 7,
       "symbolSize": 7
     },
     {
-      "name": "卢卡·瓜达尼诺",
-      "category": "意大利",
-      "value": 12,
-      "symbolSize": 12
+      "name": "今敏",
+      "category": "日本",
+      "value": 77,
+      "symbolSize": 77
     },
     {
-      "name": "路易·西霍尤斯",
-      "category": "美国",
-      "value": 15,
-      "symbolSize": 15
-    },
-    {
-      "name": "罗杰·阿勒斯",
-      "category": "美国",
-      "value": 10,
-      "symbolSize": 10
-    },
-    {
-      "name": "克里斯·雷纳德",
-      "category": "美国",
-      "value": 18,
-      "symbolSize": 18
-    },
-    {
-      "name": "克里斯托弗·诺兰",
-      "category": "英国",
-      "value": 139,
-      "symbolSize": 139
-    },
-    {
-      "name": "钱运达",
-      "category": "中国",
-      "value": 26,
-      "symbolSize": 26
-    },
-    {
-      "name": "宁浩",
-      "category": "中国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "弗兰克·德拉邦特",
-      "category": "美国",
-      "value": 39,
-      "symbolSize": 39
-    },
-    {
-      "name": "郭柯",
-      "category": "中国",
-      "value": 1,
-      "symbolSize": 1
-    },
-    {
-      "name": "克里斯托弗·史密斯",
-      "category": "英国",
-      "value": 7,
-      "symbolSize": 7
-    },
-    {
-      "name": "卡迪亚·兰德",
-      "category": "巴西",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "陈可辛",
-      "category": "中国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "拉娜·沃卓斯基",
-      "category": "美国",
-      "value": 67,
-      "symbolSize": 67
-    },
-    {
-      "name": "泷田洋二郎",
+      "name": "大森贵弘",
       "category": "日本",
       "value": 6,
       "symbolSize": 6
     },
     {
-      "name": "彼得·威尔",
+      "name": "查理·卓别林",
       "category": "美国",
-      "value": 31,
-      "symbolSize": 31
+      "value": 40,
+      "symbolSize": 40
     },
     {
-      "name": "华森·波克彭",
-      "category": "泰国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "伏原健之",
-      "category": "日本",
-      "value": 1,
-      "symbolSize": 1
-    },
-    {
-      "name": "温子仁",
+      "name": "克里斯·威廉姆斯",
       "category": "美国",
       "value": 15,
       "symbolSize": 15
     },
     {
-      "name": "布莱恩·辛格",
-      "category": "英国",
-      "value": 32,
-      "symbolSize": 32
-    },
-    {
-      "name": "保罗·格林格拉斯",
-      "category": "美国",
-      "value": 42,
-      "symbolSize": 42
-    },
-    {
-      "name": "陈凯歌",
-      "category": "中国",
-      "value": 20,
-      "symbolSize": 20
-    },
-    {
-      "name": "吴宇森",
-      "category": "中国",
-      "value": 16,
-      "symbolSize": 16
-    },
-    {
-      "name": "雅克·贝汉",
-      "category": "法国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "黄东赫",
-      "category": "韩国",
-      "value": 16,
-      "symbolSize": 16
-    },
-    {
-      "name": "万籁鸣",
-      "category": "中国",
-      "value": 7,
-      "symbolSize": 7
-    },
-    {
-      "name": "托马斯·温特伯格",
-      "category": "丹麦 ",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "M·奈特·沙马兰",
-      "category": "美国",
-      "value": 12,
-      "symbolSize": 12
-    },
-    {
-      "name": "雷德利·斯科特",
+      "name": "威廉·惠勒",
       "category": "美国",
       "value": 11,
       "symbolSize": 11
-    },
-    {
-      "name": "达伦·阿伦诺夫斯基",
-      "category": "美国",
-      "value": 24,
-      "symbolSize": 24
-    },
-    {
-      "name": "理查德·柯蒂斯",
-      "category": "英国",
-      "value": 54,
-      "symbolSize": 54
-    },
-    {
-      "name": "刘镇伟",
-      "category": "中国",
-      "value": 22,
-      "symbolSize": 22
-    },
-    {
-      "name": "汉内斯·赫尔姆",
-      "category": "瑞典",
-      "value": 11,
-      "symbolSize": 11
-    },
-    {
-      "name": "李惠民",
-      "category": "中国",
-      "value": 14,
-      "symbolSize": 14
-    },
-    {
-      "name": "弗洛里安·亨克尔·冯·多纳斯马尔克",
-      "category": "德国",
-      "value": 23,
-      "symbolSize": 23
     },
     {
       "name": "阿尔弗雷德·希区柯克",
       "category": "美国",
       "value": 31,
       "symbolSize": 31
+    },
+    {
+      "name": "朱塞佩·托纳多雷",
+      "category": "意大利",
+      "value": 56,
+      "symbolSize": 56
+    },
+    {
+      "name": "朴勋政",
+      "category": "韩国",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
+      "name": "弗洛里安·亨克尔·冯·多纳斯马尔克",
+      "category": "德国",
+      "value": 23,
+      "symbolSize": 23
     },
     {
       "name": "姜炯哲",
@@ -505,88 +157,16 @@
       "symbolSize": 53
     },
     {
-      "name": "杨德昌",
-      "category": "中国",
-      "value": 29,
-      "symbolSize": 29
+      "name": "斯蒂芬·卓博斯基",
+      "category": "美国",
+      "value": 28,
+      "symbolSize": 28
     },
     {
-      "name": "马基德·马基迪",
-      "category": "伊朗",
+      "name": "汉内斯·赫尔姆",
+      "category": "瑞典",
       "value": 11,
       "symbolSize": 11
-    },
-    {
-      "name": "拉斯·霍尔斯道姆",
-      "category": "美国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "詹姆斯·曼高德",
-      "category": "美国",
-      "value": 21,
-      "symbolSize": 21
-    },
-    {
-      "name": "克里斯·韦奇",
-      "category": "美国",
-      "value": 4,
-      "symbolSize": 4
-    },
-    {
-      "name": "小津安二郎",
-      "category": "日本",
-      "value": 6,
-      "symbolSize": 6
-    },
-    {
-      "name": "大卫·叶茨",
-      "category": "美国",
-      "value": 29,
-      "symbolSize": 29
-    },
-    {
-      "name": "杨宇硕",
-      "category": "韩国",
-      "value": 15,
-      "symbolSize": 15
-    },
-    {
-      "name": "徐景达",
-      "category": "中国",
-      "value": 6,
-      "symbolSize": 6
-    },
-    {
-      "name": "新海诚",
-      "category": "日本",
-      "value": 16,
-      "symbolSize": 16
-    },
-    {
-      "name": "达米安·斯兹弗隆",
-      "category": "阿根廷",
-      "value": 17,
-      "symbolSize": 17
-    },
-    {
-      "name": "茂文·勒鲁瓦",
-      "category": "美国",
-      "value": 59,
-      "symbolSize": 59
-    },
-    {
-      "name": "阿方索·卡隆",
-      "category": "英国",
-      "value": 14,
-      "symbolSize": 14
-    },
-    {
-      "name": "卡比尔·汗",
-      "category": "印度",
-      "value": 12,
-      "symbolSize": 12
     },
     {
       "name": "道格·里曼",
@@ -595,136 +175,34 @@
       "symbolSize": 11
     },
     {
-      "name": "罗伯·莱纳",
-      "category": "美国",
-      "value": 61,
-      "symbolSize": 61
+      "name": "克里斯托弗·史密斯",
+      "category": "英国",
+      "value": 7,
+      "symbolSize": 7
     },
     {
-      "name": "尼克·卡萨维蒂",
+      "name": "克里斯托弗·诺兰",
       "category": "美国",
-      "value": 10,
-      "symbolSize": 10
+      "value": 139,
+      "symbolSize": 139
     },
     {
-      "name": "格斯·范·桑特",
-      "category": "美国",
-      "value": 16,
-      "symbolSize": 16
+      "name": " 雅克·克鲁奥德",
+      "category": "法国",
+      "value": 8,
+      "symbolSize": 8
     },
     {
-      "name": "姜文",
+      "name": "张艺谋",
       "category": "中国",
-      "value": 67,
-      "symbolSize": 67
-    },
-    {
-      "name": "文牧野",
-      "category": "中国",
-      "value": 19,
-      "symbolSize": 19
-    },
-    {
-      "name": "罗伯特·泽米吉斯",
-      "category": "美国",
-      "value": 41,
-      "symbolSize": 41
-    },
-    {
-      "name": "蒂姆·波顿",
-      "category": "美国",
-      "value": 46,
-      "symbolSize": 46
-    },
-    {
-      "name": "宫崎骏",
-      "category": "日本",
-      "value": 111,
-      "symbolSize": 111
-    },
-    {
-      "name": "唐·霍尔",
-      "category": "美国",
       "value": 15,
       "symbolSize": 15
     },
     {
-      "name": "斯蒂芬·卓博斯基",
+      "name": "朗·霍华德",
       "category": "美国",
-      "value": 28,
-      "symbolSize": 28
-    },
-    {
-      "name": "柯克·德·米科",
-      "category": "美国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "程小东",
-      "category": "中国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "朱塞佩·托纳多雷",
-      "category": "意大利",
-      "value": 56,
-      "symbolSize": 56
-    },
-    {
-      "name": "米林宏昌",
-      "category": "日本",
-      "value": 7,
-      "symbolSize": 7
-    },
-    {
-      "name": "李濬益",
-      "category": "韩国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "秋昌旼",
-      "category": "韩国",
-      "value": 6,
-      "symbolSize": 6
-    },
-    {
-      "name": "詹姆斯·卡梅隆",
-      "category": "美国",
-      "value": 96,
-      "symbolSize": 96
-    },
-    {
-      "name": "大卫·西尔弗曼",
-      "category": "美国",
-      "value": 14,
-      "symbolSize": 14
-    },
-    {
-      "name": "高畑勋",
-      "category": "日本",
-      "value": 5,
-      "symbolSize": 5
-    },
-    {
-      "name": "杰茜·尼尔森",
-      "category": "美国",
-      "value": 7,
-      "symbolSize": 7
-    },
-    {
-      "name": "莉莉·沃卓斯基",
-      "category": "美国",
-      "value": 67,
-      "symbolSize": 67
-    },
-    {
-      "name": "王家卫",
-      "category": "中国",
-      "value": 21,
-      "symbolSize": 21
+      "value": 46,
+      "symbolSize": 46
     },
     {
       "name": "延尚昊",
@@ -733,22 +211,16 @@
       "symbolSize": 14
     },
     {
-      "name": "卡洛斯·沙尔丹哈",
+      "name": "保罗·格林格拉斯",
       "category": "美国",
-      "value": 4,
-      "symbolSize": 4
+      "value": 42,
+      "symbolSize": 42
     },
     {
-      "name": "金秉祐",
-      "category": "韩国",
-      "value": 13,
-      "symbolSize": 13
-    },
-    {
-      "name": "罗启锐",
+      "name": "李惠民",
       "category": "中国",
-      "value": 20,
-      "symbolSize": 20
+      "value": 14,
+      "symbolSize": 14
     },
     {
       "name": "阿米尔·汗",
@@ -757,136 +229,22 @@
       "symbolSize": 17
     },
     {
-      "name": "彼特·道格特",
-      "category": "美国",
-      "value": 50,
-      "symbolSize": 50
-    },
-    {
       "name": "汤姆·麦卡锡",
       "category": "美国",
       "value": 14,
       "symbolSize": 14
     },
     {
-      "name": "黄信尧",
+      "name": "宁浩",
       "category": "中国",
-      "value": 17,
-      "symbolSize": 17
+      "value": 8,
+      "symbolSize": 8
     },
     {
-      "name": "昆汀·塔伦蒂诺",
-      "category": "德国",
-      "value": 43,
-      "symbolSize": 43
-    },
-    {
-      "name": "彼得·法雷里",
+      "name": "彼特·道格特",
       "category": "美国",
-      "value": 32,
-      "symbolSize": 32
-    },
-    {
-      "name": "贝纳尔多·贝托鲁奇",
-      "category": "英国",
-      "value": 32,
-      "symbolSize": 32
-    },
-    {
-      "name": "埃里克·托莱达诺",
-      "category": "法国",
-      "value": 5,
-      "symbolSize": 5
-    },
-    {
-      "name": "韦斯·安德森",
-      "category": "美国",
-      "value": 17,
-      "symbolSize": 17
-    },
-    {
-      "name": "安德鲁·尼科尔",
-      "category": "美国",
-      "value": 31,
-      "symbolSize": 31
-    },
-    {
-      "name": "王树忱",
-      "category": "中国",
-      "value": 28,
-      "symbolSize": 28
-    },
-    {
-      "name": "周星驰",
-      "category": "中国",
-      "value": 29,
-      "symbolSize": 29
-    },
-    {
-      "name": "乔纳森·戴米",
-      "category": "美国",
-      "value": 11,
-      "symbolSize": 11
-    },
-    {
-      "name": "迈克·内威尔",
-      "category": "英国",
-      "value": 67,
-      "symbolSize": 67
-    },
-    {
-      "name": "李力持",
-      "category": "中国",
-      "value": 27,
-      "symbolSize": 27
-    },
-    {
-      "name": "迪恩·德布洛斯",
-      "category": "美国",
-      "value": 13,
-      "symbolSize": 13
-    },
-    {
-      "name": "朴勋政",
-      "category": "韩国",
-      "value": 7,
-      "symbolSize": 7
-    },
-    {
-      "name": "加布里埃莱·穆奇诺",
-      "category": "美国",
-      "value": 15,
-      "symbolSize": 15
-    },
-    {
-      "name": "克里斯·哥伦布",
-      "category": "美国",
-      "value": 21,
-      "symbolSize": 21
-    },
-    {
-      "name": "阿兰·葛斯彭纳",
-      "category": "德国",
-      "value": 20,
-      "symbolSize": 20
-    },
-    {
-      "name": "刘伟强",
-      "category": "中国",
-      "value": 18,
-      "symbolSize": 18
-    },
-    {
-      "name": "罗伯特·怀斯",
-      "category": "美国",
-      "value": 32,
-      "symbolSize": 32
-    },
-    {
-      "name": "鲍勃·彼德森",
-      "category": "美国",
-      "value": 16,
-      "symbolSize": 16
+      "value": 50,
+      "symbolSize": 50
     },
     {
       "name": "奥里奥尔·保罗",
@@ -901,10 +259,28 @@
       "symbolSize": 6
     },
     {
-      "name": "维克多·弗莱明",
+      "name": "迈克·内威尔",
+      "category": "英国",
+      "value": 67,
+      "symbolSize": 67
+    },
+    {
+      "name": "宫崎骏",
+      "category": "日本",
+      "value": 111,
+      "symbolSize": 111
+    },
+    {
+      "name": "比利·怀德",
       "category": "美国",
-      "value": 32,
-      "symbolSize": 32
+      "value": 11,
+      "symbolSize": 11
+    },
+    {
+      "name": "克里斯·韦奇",
+      "category": "美国",
+      "value": 4,
+      "symbolSize": 4
     },
     {
       "name": "大卫·芬奇",
@@ -913,124 +289,34 @@
       "symbolSize": 54
     },
     {
-      "name": "马丁·布莱斯特",
-      "category": "美国",
-      "value": 15,
-      "symbolSize": 15
-    },
-    {
-      "name": "邓肯·琼斯",
-      "category": "美国",
-      "value": 9,
-      "symbolSize": 9
-    },
-    {
-      "name": "奥利维埃·纳卡什",
-      "category": "法国",
-      "value": 5,
-      "symbolSize": 5
-    },
-    {
-      "name": "米洛斯·福尔曼",
-      "category": "美国",
-      "value": 23,
-      "symbolSize": 23
-    },
-    {
-      "name": "巴瑞·莱文森",
-      "category": "美国",
-      "value": 4,
-      "symbolSize": 4
-    },
-    {
-      "name": "是枝裕和",
-      "category": "日本",
-      "value": 49,
-      "symbolSize": 49
-    },
-    {
-      "name": "克里斯托夫·巴拉蒂",
-      "category": "法国",
-      "value": 17,
-      "symbolSize": 17
-    },
-    {
-      "name": "埃里克·布雷斯",
-      "category": "美国",
-      "value": 16,
-      "symbolSize": 16
-    },
-    {
-      "name": "忻钰坤",
-      "category": "中国",
-      "value": 18,
-      "symbolSize": 18
-    },
-    {
-      "name": "涅提·蒂瓦里",
-      "category": "印度",
-      "value": 9,
-      "symbolSize": 9
-    },
-    {
-      "name": "普特鹏·普罗萨卡·那·萨克那卡林",
-      "category": "泰国",
-      "value": 8,
-      "symbolSize": 8
-    },
-    {
-      "name": "李·昂克里奇",
-      "category": "美国",
-      "value": 42,
-      "symbolSize": 42
-    },
-    {
-      "name": "拜伦·霍华德",
-      "category": "美国",
-      "value": 33,
-      "symbolSize": 33
-    },
-    {
-      "name": "盖·里奇",
-      "category": "英国",
-      "value": 7,
-      "symbolSize": 7
-    },
-    {
-      "name": "查理·卓别林",
-      "category": "美国",
-      "value": 40,
-      "symbolSize": 40
-    },
-    {
-      "name": "麦兆辉",
-      "category": "中国",
-      "value": 18,
-      "symbolSize": 18
-    },
-    {
-      "name": "严定宪",
-      "category": "中国",
-      "value": 6,
-      "symbolSize": 6
-    },
-    {
-      "name": "约翰·卡尼",
-      "category": "美国",
-      "value": 29,
-      "symbolSize": 29
-    },
-    {
-      "name": "中岛哲也",
-      "category": "日本",
-      "value": 35,
-      "symbolSize": 35
-    },
-    {
       "name": "罗曼·波兰斯基",
       "category": "英国",
       "value": 10,
       "symbolSize": 10
+    },
+    {
+      "name": "秋昌旼",
+      "category": "韩国",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "李力持",
+      "category": "中国",
+      "value": 27,
+      "symbolSize": 27
+    },
+    {
+      "name": "乔治·库克",
+      "category": "美国",
+      "value": 32,
+      "symbolSize": 32
+    },
+    {
+      "name": "詹姆斯·卡梅隆",
+      "category": "美国",
+      "value": 96,
+      "symbolSize": 96
     },
     {
       "name": "近藤喜文",
@@ -1039,14 +325,824 @@
       "symbolSize": 8
     },
     {
+      "name": "爱德华·兹威克",
+      "category": "美国",
+      "value": 31,
+      "symbolSize": 31
+    },
+    {
+      "name": "韦斯·安德森",
+      "category": "美国",
+      "value": 17,
+      "symbolSize": 17
+    },
+    {
+      "name": "李濬益",
+      "category": "韩国",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "李安",
+      "category": "中国",
+      "value": 77,
+      "symbolSize": 77
+    },
+    {
+      "name": "高畑勋",
+      "category": "日本",
+      "value": 5,
+      "symbolSize": 5
+    },
+    {
+      "name": "鲍勃·彼德森",
+      "category": "美国",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "严定宪",
+      "category": "中国",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "罗杰·阿勒斯",
+      "category": "美国",
+      "value": 10,
+      "symbolSize": 10
+    },
+    {
+      "name": "温子仁",
+      "category": "美国",
+      "value": 15,
+      "symbolSize": 15
+    },
+    {
+      "name": "陈凯歌",
+      "category": "中国",
+      "value": 20,
+      "symbolSize": 20
+    },
+    {
+      "name": "马克·赫尔曼",
+      "category": "英国",
+      "value": 19,
+      "symbolSize": 19
+    },
+    {
+      "name": "罗伯特·泽米吉斯",
+      "category": "美国",
+      "value": 41,
+      "symbolSize": 41
+    },
+    {
+      "name": "陆川",
+      "category": "中国",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "弗朗西斯·福特·科波拉",
+      "category": "美国",
+      "value": 80,
+      "symbolSize": 80
+    },
+    {
+      "name": "丹尼·博伊尔",
+      "category": "英国",
+      "value": 35,
+      "symbolSize": 35
+    },
+    {
+      "name": "洛芙琳·坦丹",
+      "category": "英国",
+      "value": 11,
+      "symbolSize": 11
+    },
+    {
+      "name": "细田守",
+      "category": "日本",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "埃里克·布雷斯",
+      "category": "美国",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "陈可辛",
+      "category": "中国",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "斯坦利·库布里克",
+      "category": "英国",
+      "value": 11,
+      "symbolSize": 11
+    },
+    {
+      "name": "郭柯",
+      "category": "中国",
+      "value": 1,
+      "symbolSize": 1
+    },
+    {
       "name": "拉吉库马尔·希拉尼",
       "category": "印度",
       "value": 8,
       "symbolSize": 8
     },
     {
+      "name": "刘镇伟",
+      "category": "中国",
+      "value": 22,
+      "symbolSize": 22
+    },
+    {
+      "name": "迪恩·德布洛斯",
+      "category": "美国",
+      "value": 13,
+      "symbolSize": 13
+    },
+    {
+      "name": "伏原健之",
+      "category": "日本",
+      "value": 1,
+      "symbolSize": 1
+    },
+    {
+      "name": "格斯·范·桑特",
+      "category": "美国",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "彼得·杰克逊",
+      "category": "新西兰 ",
+      "value": 92,
+      "symbolSize": 92
+    },
+    {
+      "name": "卡洛斯·沙尔丹哈",
+      "category": "美国",
+      "value": 4,
+      "symbolSize": 4
+    },
+    {
+      "name": "史蒂文·斯皮尔伯格",
+      "category": "美国",
+      "value": 155,
+      "symbolSize": 155
+    },
+    {
+      "name": "北野武",
+      "category": "日本",
+      "value": 13,
+      "symbolSize": 13
+    },
+    {
+      "name": "巴瑞·莱文森",
+      "category": "美国",
+      "value": 4,
+      "symbolSize": 4
+    },
+    {
+      "name": "瑞奇·摩尔",
+      "category": "美国",
+      "value": 62,
+      "symbolSize": 62
+    },
+    {
+      "name": "奥利维埃·纳卡什",
+      "category": "法国",
+      "value": 5,
+      "symbolSize": 5
+    },
+    {
+      "name": "维克多·弗莱明",
+      "category": "美国",
+      "value": 32,
+      "symbolSize": 32
+    },
+    {
+      "name": "安德鲁·尼科尔",
+      "category": "美国",
+      "value": 31,
+      "symbolSize": 31
+    },
+    {
+      "name": "卡比尔·汗",
+      "category": "印度",
+      "value": 12,
+      "symbolSize": 12
+    },
+    {
+      "name": "大卫·叶茨",
+      "category": "美国",
+      "value": 29,
+      "symbolSize": 29
+    },
+    {
+      "name": "蒂姆·波顿",
+      "category": "美国",
+      "value": 46,
+      "symbolSize": 46
+    },
+    {
+      "name": "詹姆斯·曼高德",
+      "category": "美国",
+      "value": 21,
+      "symbolSize": 21
+    },
+    {
+      "name": "埃里克·托莱达诺",
+      "category": "法国",
+      "value": 5,
+      "symbolSize": 5
+    },
+    {
+      "name": "阿尼什·查甘蒂",
+      "category": "美国",
+      "value": 24,
+      "symbolSize": 24
+    },
+    {
+      "name": "赛尔乔·莱昂内",
+      "category": "美国",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "万籁鸣",
+      "category": "中国",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
+      "name": "达米恩·查泽雷",
+      "category": "美国",
+      "value": 23,
+      "symbolSize": 23
+    },
+    {
+      "name": "周星驰",
+      "category": "中国",
+      "value": 29,
+      "symbolSize": 29
+    },
+    {
+      "name": "罗启锐",
+      "category": "中国",
+      "value": 20,
+      "symbolSize": 20
+    },
+    {
+      "name": "唐·霍尔",
+      "category": "美国",
+      "value": 15,
+      "symbolSize": 15
+    },
+    {
+      "name": "王晶",
+      "category": "中国",
+      "value": 13,
+      "symbolSize": 13
+    },
+    {
+      "name": "丹尼斯·甘塞尔",
+      "category": "德国",
+      "value": 10,
+      "symbolSize": 10
+    },
+    {
+      "name": "拉娜·沃卓斯基",
+      "category": "美国",
+      "value": 67,
+      "symbolSize": 67
+    },
+    {
+      "name": "罗伯特·怀斯",
+      "category": "美国",
+      "value": 32,
+      "symbolSize": 32
+    },
+    {
+      "name": "忻钰坤",
+      "category": "中国",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "乔治·米勒",
+      "category": "澳大利亚",
+      "value": 15,
+      "symbolSize": 15
+    },
+    {
+      "name": "金秉祐",
+      "category": "韩国",
+      "value": 13,
+      "symbolSize": 13
+    },
+    {
+      "name": "王树忱",
+      "category": "中国",
+      "value": 28,
+      "symbolSize": 28
+    },
+    {
+      "name": "热拉尔·乌里",
+      "category": "法国",
+      "value": 29,
+      "symbolSize": 29
+    },
+    {
+      "name": "奉俊昊",
+      "category": "韩国",
+      "value": 33,
+      "symbolSize": 33
+    },
+    {
+      "name": "达米安·斯兹弗隆",
+      "category": "阿根廷",
+      "value": 17,
+      "symbolSize": 17
+    },
+    {
+      "name": "华森·波克彭",
+      "category": "泰国",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "卢卡·瓜达尼诺",
+      "category": "意大利",
+      "value": 12,
+      "symbolSize": 12
+    },
+    {
+      "name": "程小东",
+      "category": "中国",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "理查德·林克莱特",
+      "category": "美国",
+      "value": 35,
+      "symbolSize": 35
+    },
+    {
+      "name": "罗伯托·贝尼尼",
+      "category": "意大利",
+      "value": 27,
+      "symbolSize": 27
+    },
+    {
+      "name": "詹姆斯·沃德·布柯特",
+      "category": "美国",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "罗伯·明可夫",
+      "category": "美国",
+      "value": 10,
+      "symbolSize": 10
+    },
+    {
+      "name": "拜伦·霍华德",
+      "category": "美国",
+      "value": 33,
+      "symbolSize": 33
+    },
+    {
+      "name": "罗伯·莱纳",
+      "category": "美国",
+      "value": 61,
+      "symbolSize": 61
+    },
+    {
+      "name": "约翰·卡尼",
+      "category": "美国",
+      "value": 29,
+      "symbolSize": 29
+    },
+    {
+      "name": "黑泽明",
+      "category": "日本",
+      "value": 49,
+      "symbolSize": 49
+    },
+    {
+      "name": "托尼·凯耶",
+      "category": "美国",
+      "value": 26,
+      "symbolSize": 26
+    },
+    {
+      "name": "徐克",
+      "category": "中国",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
       "name": "保罗·杰诺维塞",
       "category": "意大利",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
+      "name": "梅尔·吉布森",
+      "category": "美国",
+      "value": 20,
+      "symbolSize": 20
+    },
+    {
+      "name": "涅提·蒂瓦里",
+      "category": "印度",
+      "value": 9,
+      "symbolSize": 9
+    },
+    {
+      "name": "刘露",
+      "category": "中国",
+      "value": 12,
+      "symbolSize": 12
+    },
+    {
+      "name": "贝纳尔多·贝托鲁奇",
+      "category": "英国",
+      "value": 32,
+      "symbolSize": 32
+    },
+    {
+      "name": "阿方索·卡隆",
+      "category": "英国",
+      "value": 14,
+      "symbolSize": 14
+    },
+    {
+      "name": "彼得·威尔",
+      "category": "美国",
+      "value": 31,
+      "symbolSize": 31
+    },
+    {
+      "name": "茂文·勒鲁瓦",
+      "category": "美国",
+      "value": 59,
+      "symbolSize": 59
+    },
+    {
+      "name": "吉恩·凯利",
+      "category": "美国",
+      "value": 53,
+      "symbolSize": 53
+    },
+    {
+      "name": "阿德里安·莫利纳",
+      "category": "美国",
+      "value": 23,
+      "symbolSize": 23
+    },
+    {
+      "name": "姜文",
+      "category": "中国",
+      "value": 67,
+      "symbolSize": 67
+    },
+    {
+      "name": "布莱恩·辛格",
+      "category": "英国",
+      "value": 32,
+      "symbolSize": 32
+    },
+    {
+      "name": "小津安二郎",
+      "category": "日本",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "米林宏昌",
+      "category": "日本",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
+      "name": "克里斯·哥伦布",
+      "category": "美国",
+      "value": 21,
+      "symbolSize": 21
+    },
+    {
+      "name": "森淳一",
+      "category": "日本",
+      "value": 5,
+      "symbolSize": 5
+    },
+    {
+      "name": "钱运达",
+      "category": "中国",
+      "value": 26,
+      "symbolSize": 26
+    },
+    {
+      "name": "邓肯·琼斯",
+      "category": "美国",
+      "value": 9,
+      "symbolSize": 9
+    },
+    {
+      "name": "让-皮埃尔·热内",
+      "category": "法国",
+      "value": 25,
+      "symbolSize": 25
+    },
+    {
+      "name": "麦兆辉",
+      "category": "中国",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "乔纳森·戴米",
+      "category": "美国",
+      "value": 11,
+      "symbolSize": 11
+    },
+    {
+      "name": "泷田洋二郎",
+      "category": "日本",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "柯克·德·米科",
+      "category": "美国",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "周申",
+      "category": "中国",
+      "value": 12,
+      "symbolSize": 12
+    },
+    {
+      "name": "莉莉·沃卓斯基",
+      "category": "美国",
+      "value": 67,
+      "symbolSize": 67
+    },
+    {
+      "name": "马丁·麦克唐纳",
+      "category": "美国",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "西德尼·吕美特",
+      "category": "美国",
+      "value": 12,
+      "symbolSize": 12
+    },
+    {
+      "name": "山姆·伍德",
+      "category": "美国",
+      "value": 32,
+      "symbolSize": 32
+    },
+    {
+      "name": "黄信尧",
+      "category": "中国",
+      "value": 17,
+      "symbolSize": 17
+    },
+    {
+      "name": "是枝裕和",
+      "category": "日本",
+      "value": 49,
+      "symbolSize": 49
+    },
+    {
+      "name": "J·麦基·格鲁伯",
+      "category": "美国",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "马丁·斯科塞斯",
+      "category": "美国",
+      "value": 14,
+      "symbolSize": 14
+    },
+    {
+      "name": "徐景达",
+      "category": "中国",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "阿兰·葛斯彭纳",
+      "category": "德国",
+      "value": 20,
+      "symbolSize": 20
+    },
+    {
+      "name": "马基德·马基迪",
+      "category": "伊朗",
+      "value": 11,
+      "symbolSize": 11
+    },
+    {
+      "name": "吴宇森",
+      "category": "中国",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "让-马克·瓦雷",
+      "category": "美国",
+      "value": 13,
+      "symbolSize": 13
+    },
+    {
+      "name": "普特鹏·普罗萨卡·那·萨克那卡林",
+      "category": "泰国",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "杰拉德·布什",
+      "category": "美国",
+      "value": 33,
+      "symbolSize": 33
+    },
+    {
+      "name": "汤姆·提克威",
+      "category": "德国",
+      "value": 17,
+      "symbolSize": 17
+    },
+    {
+      "name": "王家卫",
+      "category": "中国",
+      "value": 21,
+      "symbolSize": 21
+    },
+    {
+      "name": "李·昂克里奇",
+      "category": "美国",
+      "value": 42,
+      "symbolSize": 42
+    },
+    {
+      "name": "中岛哲也",
+      "category": "日本",
+      "value": 35,
+      "symbolSize": 35
+    },
+    {
+      "name": "理查德·柯蒂斯",
+      "category": "英国",
+      "value": 54,
+      "symbolSize": 54
+    },
+    {
+      "name": "盖·里奇",
+      "category": "英国",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
+      "name": "乔·赖特",
+      "category": "法国",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "克里斯·桑德斯",
+      "category": "美国",
+      "value": 21,
+      "symbolSize": 21
+    },
+    {
+      "name": "大卫·西尔弗曼",
+      "category": "美国",
+      "value": 14,
+      "symbolSize": 14
+    },
+    {
+      "name": "达伦·阿伦诺夫斯基",
+      "category": "美国",
+      "value": 24,
+      "symbolSize": 24
+    },
+    {
+      "name": "加布里埃莱·穆奇诺",
+      "category": "美国",
+      "value": 15,
+      "symbolSize": 15
+    },
+    {
+      "name": "克里斯托夫·巴拉蒂",
+      "category": "法国",
+      "value": 17,
+      "symbolSize": 17
+    },
+    {
+      "name": "尼克·卡萨维蒂",
+      "category": "美国",
+      "value": 10,
+      "symbolSize": 10
+    },
+    {
+      "name": "藤森雅也",
+      "category": "日本",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "克里斯·雷纳德",
+      "category": "美国",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "米洛斯·福尔曼",
+      "category": "美国",
+      "value": 23,
+      "symbolSize": 23
+    },
+    {
+      "name": "弗兰克·德拉邦特",
+      "category": "美国",
+      "value": 39,
+      "symbolSize": 39
+    },
+    {
+      "name": "肯尼思·洛纳根",
+      "category": "美国",
+      "value": 28,
+      "symbolSize": 28
+    },
+    {
+      "name": "雅克·贝汉",
+      "category": "法国",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "费尔南多·梅里尔斯",
+      "category": "巴西",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "黄东赫",
+      "category": "韩国",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "卡迪亚·兰德",
+      "category": "巴西",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "彼得·法雷里",
+      "category": "美国",
+      "value": 32,
+      "symbolSize": 32
+    },
+    {
+      "name": "伦尼·阿伯拉罕森",
+      "category": "爱尔兰",
+      "value": 15,
+      "symbolSize": 15
+    },
+    {
+      "name": "M·奈特·沙马兰",
+      "category": "美国",
+      "value": 12,
+      "symbolSize": 12
+    },
+    {
+      "name": "雷德利·斯科特",
+      "category": "美国",
+      "value": 11,
+      "symbolSize": 11
+    },
+    {
+      "name": "唐澄",
+      "category": "中国",
       "value": 7,
       "symbolSize": 7
     },
@@ -1057,944 +1153,178 @@
       "symbolSize": 25
     },
     {
-      "name": "梅尔·吉布森",
-      "category": "美国",
-      "value": 20,
-      "symbolSize": 20
-    },
-    {
-      "name": "弗朗西斯·福特·科波拉",
-      "category": "美国",
-      "value": 80,
-      "symbolSize": 80
-    },
-    {
-      "name": "罗伯·明可夫",
-      "category": "美国",
-      "value": 10,
-      "symbolSize": 10
-    },
-    {
-      "name": "肯尼思·洛纳根",
-      "category": "美国",
-      "value": 28,
-      "symbolSize": 28
-    },
-    {
-      "name": "威廉·惠勒",
-      "category": "美国",
-      "value": 11,
-      "symbolSize": 11
-    },
-    {
-      "name": "西德尼·吕美特",
-      "category": "美国",
-      "value": 12,
-      "symbolSize": 12
-    },
-    {
-      "name": "皮埃尔·柯芬",
-      "category": "美国",
-      "value": 18,
-      "symbolSize": 18
-    },
-    {
-      "name": "汤姆·提克威",
-      "category": "德国",
-      "value": 17,
-      "symbolSize": 17
-    },
-    {
-      "name": "彼得·杰克逊",
-      "category": "美国",
-      "value": 92,
-      "symbolSize": 92
-    },
-    {
-      "name": "王晶",
-      "category": "中国",
-      "value": 13,
-      "symbolSize": 13
-    },
-    {
-      "name": "乔治·库克",
-      "category": "美国",
-      "value": 32,
-      "symbolSize": 32
-    },
-    {
-      "name": "山姆·伍德",
-      "category": "美国",
-      "value": 32,
-      "symbolSize": 32
-    },
-    {
-      "name": "阿德里安·莫利纳",
-      "category": "美国",
-      "value": 23,
-      "symbolSize": 23
-    },
-    {
-      "name": "乔·赖特",
-      "category": "法国",
-      "value": 18,
-      "symbolSize": 18
-    },
-    {
-      "name": "杰拉德·布什",
-      "category": "美国",
-      "value": 33,
-      "symbolSize": 33
-    },
-    {
-      "name": "马丁·麦克唐纳",
-      "category": "美国",
-      "value": 18,
-      "symbolSize": 18
-    },
-    {
-      "name": "细田守",
-      "category": "日本",
-      "value": 16,
-      "symbolSize": 16
-    },
-    {
-      "name": "刘露",
-      "category": "中国",
-      "value": 12,
-      "symbolSize": 12
-    },
-    {
-      "name": "丹尼·博伊尔",
-      "category": "英国",
-      "value": 35,
-      "symbolSize": 35
-    },
-    {
       "name": "罗纳尔多·德尔·卡门",
       "category": "美国",
       "value": 25,
       "symbolSize": 25
     },
     {
-      "name": "赛尔乔·莱昂内",
+      "name": "托马斯·温特伯格",
+      "category": "丹麦 ",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "马丁·布莱斯特",
       "category": "美国",
+      "value": 15,
+      "symbolSize": 15
+    },
+    {
+      "name": "岩井俊二",
+      "category": "日本",
+      "value": 22,
+      "symbolSize": 22
+    },
+    {
+      "name": "娜丁·拉巴基",
+      "category": "黎巴嫩 ",
+      "value": 10,
+      "symbolSize": 10
+    },
+    {
+      "name": "特瑞·乔治",
+      "category": "英国",
+      "value": 14,
+      "symbolSize": 14
+    },
+    {
+      "name": "吕克·贝松",
+      "category": "法国",
       "value": 16,
       "symbolSize": 16
     },
     {
-      "name": "热拉尔·乌里",
-      "category": "法国",
-      "value": 29,
-      "symbolSize": 29
-    },
-    {
-      "name": "爱德华·兹威克",
-      "category": "美国",
-      "value": 31,
-      "symbolSize": 31
-    },
-    {
-      "name": "詹姆斯·沃德·布柯特",
-      "category": "美国",
+      "name": "李焕庆",
+      "category": "韩国",
       "value": 8,
       "symbolSize": 8
     }
   ],
   [
     {
-      "source": "马克·赫尔曼",
-      "target": "大卫·叶茨",
-      "linewidth": 1
-    },
-    {
-      "source": "马克·赫尔曼",
-      "target": "阿方索·卡隆",
-      "linewidth": 1
-    },
-    {
-      "source": "马克·赫尔曼",
-      "target": "邓肯·琼斯",
-      "linewidth": 1
-    },
-    {
-      "source": "马克·赫尔曼",
-      "target": "乔·赖特",
-      "linewidth": 1
-    },
-    {
-      "source": "达米恩·查泽雷",
-      "target": "瑞奇·摩尔",
-      "linewidth": 1
-    },
-    {
-      "source": "达米恩·查泽雷",
-      "target": "史蒂文·斯皮尔伯格",
-      "linewidth": 1
-    },
-    {
-      "source": "达米恩·查泽雷",
-      "target": "拜伦·霍华德",
-      "linewidth": 1
-    },
-    {
-      "source": "达米恩·查泽雷",
-      "target": "杰拉德·布什",
-      "linewidth": 1
-    },
-    {
-      "source": "森淳一",
-      "target": "是枝裕和",
-      "linewidth": 1
-    },
-    {
-      "source": "森淳一",
-      "target": "中岛哲也",
-      "linewidth": 1
-    },
-    {
-      "source": "乔治·米勒",
-      "target": "克里斯托弗·诺兰",
-      "linewidth": 1
-    },
-    {
-      "source": "乔治·米勒",
-      "target": "雷德利·斯科特",
-      "linewidth": 1
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "克里斯·威廉姆斯",
-      "linewidth": 2
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "克里斯·雷纳德",
-      "linewidth": 2
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "弗兰克·德拉邦特",
-      "linewidth": 1
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "罗伯·莱纳",
-      "linewidth": 1
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "唐·霍尔",
-      "linewidth": 2
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "詹姆斯·卡梅隆",
-      "linewidth": 2
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "大卫·西尔弗曼",
-      "linewidth": 1
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "彼特·道格特",
-      "linewidth": 3
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "鲍勃·彼德森",
-      "linewidth": 1
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "巴瑞·莱文森",
-      "linewidth": 1
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "李·昂克里奇",
-      "linewidth": 1
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "拜伦·霍华德",
-      "linewidth": 33
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "安德鲁·斯坦顿",
-      "linewidth": 1
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "皮埃尔·柯芬",
-      "linewidth": 2
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "杰拉德·布什",
-      "linewidth": 33
-    },
-    {
-      "source": "瑞奇·摩尔",
-      "target": "罗纳尔多·德尔·卡门",
-      "linewidth": 1
-    },
-    {
-      "source": "周申",
-      "target": "刘露",
-      "linewidth": 12
-    },
-    {
-      "source": "让-马克·瓦雷",
-      "target": "史蒂文·斯皮尔伯格",
-      "linewidth": 1
-    },
-    {
-      "source": "让-马克·瓦雷",
-      "target": "克里斯托弗·诺兰",
-      "linewidth": 1
-    },
-    {
-      "source": "让-马克·瓦雷",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "让-马克·瓦雷",
-      "target": "大卫·芬奇",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "史蒂文·斯皮尔伯格",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "克里斯·威廉姆斯",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "克里斯·雷纳德",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "唐·霍尔",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "柯克·德·米科",
-      "linewidth": 8
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "迈克·内威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "迪恩·德布洛斯",
-      "linewidth": 13
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "约翰·卡尼",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·桑德斯",
-      "target": "皮埃尔·柯芬",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·林克莱特",
-      "target": "史蒂文·斯皮尔伯格",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·林克莱特",
-      "target": "朗·霍华德",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·林克莱特",
-      "target": "彼得·威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·林克莱特",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "克林特·伊斯特伍德",
-      "target": "克里斯托弗·诺兰",
-      "linewidth": 1
-    },
-    {
-      "source": "克林特·伊斯特伍德",
-      "target": "杰茜·尼尔森",
-      "linewidth": 1
-    },
-    {
-      "source": "唐澄",
-      "target": "钱运达",
-      "linewidth": 5
-    },
-    {
-      "source": "唐澄",
-      "target": "万籁鸣",
-      "linewidth": 7
-    },
-    {
-      "source": "唐澄",
-      "target": "徐景达",
-      "linewidth": 5
-    },
-    {
-      "source": "唐澄",
-      "target": "王树忱",
-      "linewidth": 6
-    },
-    {
-      "source": "唐澄",
-      "target": "严定宪",
-      "linewidth": 5
-    },
-    {
-      "source": "今敏",
-      "target": "大森贵弘",
-      "linewidth": 1
-    },
-    {
-      "source": "今敏",
-      "target": "藤森雅也",
-      "linewidth": 1
-    },
-    {
-      "source": "今敏",
-      "target": "宫崎骏",
-      "linewidth": 4
-    },
-    {
-      "source": "今敏",
-      "target": "细田守",
-      "linewidth": 1
-    },
-    {
-      "source": "比利·怀德",
-      "target": "茂文·勒鲁瓦",
-      "linewidth": 1
-    },
-    {
-      "source": "比利·怀德",
-      "target": "罗伯特·怀斯",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "朗·霍华德",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "史蒂芬·戴德利",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "托尼·凯耶",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "克里斯·威廉姆斯",
-      "linewidth": 2
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "伦尼·阿伯拉罕森",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "马丁·斯科塞斯",
-      "linewidth": 2
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "克里斯托弗·诺兰",
-      "linewidth": 4
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "弗兰克·德拉邦特",
-      "linewidth": 3
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "温子仁",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "保罗·格林格拉斯",
-      "linewidth": 4
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "M·奈特·沙马兰",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "雷德利·斯科特",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "理查德·柯蒂斯",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "大卫·叶茨",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "道格·里曼",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "格斯·范·桑特",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "罗伯特·泽米吉斯",
-      "linewidth": 2
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "唐·霍尔",
-      "linewidth": 2
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "詹姆斯·卡梅隆",
-      "linewidth": 3
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "汤姆·麦卡锡",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "韦斯·安德森",
-      "linewidth": 2
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "迈克·内威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "迪恩·德布洛斯",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "加布里埃莱·穆奇诺",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "邓肯·琼斯",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "李·昂克里奇",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂文·斯皮尔伯格",
-      "target": "爱德华·兹威克",
-      "linewidth": 1
-    },
-    {
-      "source": "吉恩·凯利",
-      "target": "斯坦利·多南",
-      "linewidth": 53
-    },
-    {
-      "source": "吉恩·凯利",
-      "target": "罗伯特·怀斯",
-      "linewidth": 1
-    },
-    {
-      "source": "朗·霍华德",
-      "target": "托尼·凯耶",
-      "linewidth": 1
-    },
-    {
-      "source": "朗·霍华德",
-      "target": "彼得·威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "朗·霍华德",
-      "target": "彼特·道格特",
-      "linewidth": 1
-    },
-    {
-      "source": "朗·霍华德",
-      "target": "罗伯特·怀斯",
-      "linewidth": 1
-    },
-    {
-      "source": "朗·霍华德",
-      "target": "鲍勃·彼德森",
-      "linewidth": 1
-    },
-    {
-      "source": "朗·霍华德",
-      "target": "赛尔乔·莱昂内",
-      "linewidth": 1
-    },
-    {
-      "source": "朗·霍华德",
-      "target": "爱德华·兹威克",
-      "linewidth": 1
-    },
-    {
-      "source": "黑泽明",
-      "target": "神山征二郎",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂芬·戴德利",
-      "target": "大卫·叶茨",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂芬·戴德利",
-      "target": "詹姆斯·卡梅隆",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂芬·戴德利",
-      "target": "韦斯·安德森",
-      "linewidth": 1
-    },
-    {
-      "source": "史蒂芬·戴德利",
-      "target": "迈克·内威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "托尼·凯耶",
-      "target": "韦斯·安德森",
-      "linewidth": 1
-    },
-    {
-      "source": "托尼·凯耶",
-      "target": "罗曼·波兰斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "托尼·凯耶",
-      "target": "弗朗西斯·福特·科波拉",
-      "linewidth": 1
-    },
-    {
-      "source": "奉俊昊",
-      "target": "杨宇硕",
-      "linewidth": 2
-    },
-    {
-      "source": "奉俊昊",
-      "target": "秋昌旼",
-      "linewidth": 1
-    },
-    {
-      "source": "奉俊昊",
-      "target": "延尚昊",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "弗兰克·德拉邦特",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "唐·霍尔",
-      "linewidth": 15
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "大卫·西尔弗曼",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "彼特·道格特",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "迪恩·德布洛斯",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "李·昂克里奇",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "拜伦·霍华德",
-      "linewidth": 2
-    },
-    {
-      "source": "克里斯·威廉姆斯",
-      "target": "杰拉德·布什",
-      "linewidth": 2
-    },
-    {
-      "source": "张艺谋",
+      "source": "文牧野",
       "target": "宁浩",
       "linewidth": 1
     },
     {
-      "source": "张艺谋",
-      "target": "陈凯歌",
-      "linewidth": 2
+      "source": "刘伟强",
+      "target": "克里斯托弗·诺兰",
+      "linewidth": 1
     },
     {
-      "source": "张艺谋",
-      "target": "姜文",
-      "linewidth": 2
-    },
-    {
-      "source": "张艺谋",
+      "source": "刘伟强",
       "target": "李力持",
       "linewidth": 1
     },
     {
-      "source": "李安",
-      "target": "洛芙琳·坦丹",
+      "source": "刘伟强",
+      "target": "李安",
       "linewidth": 1
     },
     {
-      "source": "李安",
-      "target": "马丁·斯科塞斯",
+      "source": "刘伟强",
+      "target": "陈可辛",
       "linewidth": 1
     },
     {
-      "source": "李安",
-      "target": "克里斯托弗·诺兰",
-      "linewidth": 2
-    },
-    {
-      "source": "李安",
+      "source": "刘伟强",
       "target": "刘镇伟",
-      "linewidth": 1
-    },
-    {
-      "source": "李安",
-      "target": "杨德昌",
-      "linewidth": 1
-    },
-    {
-      "source": "李安",
-      "target": "王家卫",
-      "linewidth": 1
-    },
-    {
-      "source": "李安",
-      "target": "彼得·法雷里",
-      "linewidth": 1
-    },
-    {
-      "source": "李安",
-      "target": "贝纳尔多·贝托鲁奇",
       "linewidth": 2
     },
     {
-      "source": "李安",
-      "target": "刘伟强",
-      "linewidth": 1
+      "source": "刘伟强",
+      "target": "姜文",
+      "linewidth": 2
     },
     {
-      "source": "李安",
-      "target": "邓肯·琼斯",
-      "linewidth": 1
-    },
-    {
-      "source": "李安",
+      "source": "刘伟强",
       "target": "麦兆辉",
-      "linewidth": 1
+      "linewidth": 18
     },
     {
-      "source": "李安",
-      "target": "肯尼思·洛纳根",
-      "linewidth": 1
+      "source": "刘伟强",
+      "target": "王家卫",
+      "linewidth": 4
     },
     {
-      "source": "李安",
-      "target": "丹尼·博伊尔",
-      "linewidth": 1
-    },
-    {
-      "source": "费尔南多·梅里尔斯",
-      "target": "卡迪亚·兰德",
-      "linewidth": 8
-    },
-    {
-      "source": " 雅克·克鲁奥德",
-      "target": "雅克·贝汉",
-      "linewidth": 8
-    },
-    {
-      "source": " 雅克·克鲁奥德",
+      "source": "昆汀·塔伦蒂诺",
       "target": "朱塞佩·托纳多雷",
       "linewidth": 1
     },
     {
-      "source": " 雅克·克鲁奥德",
-      "target": "克里斯托夫·巴拉蒂",
+      "source": "昆汀·塔伦蒂诺",
+      "target": "道格·里曼",
       "linewidth": 1
     },
     {
-      "source": "J·麦基·格鲁伯",
+      "source": "昆汀·塔伦蒂诺",
       "target": "克里斯托弗·诺兰",
       "linewidth": 1
     },
     {
-      "source": "J·麦基·格鲁伯",
-      "target": "彼得·威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "J·麦基·格鲁伯",
-      "target": "詹姆斯·曼高德",
-      "linewidth": 1
-    },
-    {
-      "source": "J·麦基·格鲁伯",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "J·麦基·格鲁伯",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "J·麦基·格鲁伯",
-      "target": "埃里克·布雷斯",
-      "linewidth": 16
-    },
-    {
-      "source": "大森贵弘",
-      "target": "宫崎骏",
-      "linewidth": 1
-    },
-    {
-      "source": "洛芙琳·坦丹",
-      "target": "丹尼·博伊尔",
-      "linewidth": 11
-    },
-    {
-      "source": "李焕庆",
-      "target": "杨宇硕",
-      "linewidth": 1
-    },
-    {
-      "source": "李焕庆",
-      "target": "秋昌旼",
-      "linewidth": 1
-    },
-    {
-      "source": "伦尼·阿伯拉罕森",
+      "source": "昆汀·塔伦蒂诺",
       "target": "保罗·格林格拉斯",
       "linewidth": 1
     },
     {
-      "source": "伦尼·阿伯拉罕森",
-      "target": "拉斯·霍尔斯道姆",
+      "source": "昆汀·塔伦蒂诺",
+      "target": "大卫·芬奇",
       "linewidth": 1
     },
     {
-      "source": "伦尼·阿伯拉罕森",
-      "target": "尼克·卡萨维蒂",
+      "source": "昆汀·塔伦蒂诺",
+      "target": "詹姆斯·卡梅隆",
       "linewidth": 1
     },
     {
-      "source": "伦尼·阿伯拉罕森",
-      "target": "斯蒂芬·卓博斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "伦尼·阿伯拉罕森",
-      "target": "邓肯·琼斯",
-      "linewidth": 1
-    },
-    {
-      "source": "藤森雅也",
-      "target": "宫崎骏",
+      "source": "昆汀·塔伦蒂诺",
+      "target": "爱德华·兹威克",
       "linewidth": 2
     },
     {
-      "source": "北野武",
-      "target": "泷田洋二郎",
+      "source": "昆汀·塔伦蒂诺",
+      "target": "韦斯·安德森",
       "linewidth": 1
     },
     {
-      "source": "北野武",
-      "target": "宫崎骏",
+      "source": "昆汀·塔伦蒂诺",
+      "target": "埃里克·布雷斯",
       "linewidth": 1
     },
     {
-      "source": "北野武",
-      "target": "中岛哲也",
+      "source": "昆汀·塔伦蒂诺",
+      "target": "迪恩·德布洛斯",
+      "linewidth": 1
+    },
+    {
+      "source": "昆汀·塔伦蒂诺",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 1
+    },
+    {
+      "source": "昆汀·塔伦蒂诺",
+      "target": "安德鲁·尼科尔",
+      "linewidth": 1
+    },
+    {
+      "source": "昆汀·塔伦蒂诺",
+      "target": "J·麦基·格鲁伯",
+      "linewidth": 1
+    },
+    {
+      "source": "昆汀·塔伦蒂诺",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "昆汀·塔伦蒂诺",
+      "target": "克里斯·桑德斯",
+      "linewidth": 1
+    },
+    {
+      "source": "昆汀·塔伦蒂诺",
+      "target": "M·奈特·沙马兰",
       "linewidth": 1
     },
     {
@@ -2013,843 +1343,308 @@
       "linewidth": 1
     },
     {
-      "source": "吕克·贝松",
-      "target": "克里斯托弗·诺兰",
-      "linewidth": 1
-    },
-    {
-      "source": "吕克·贝松",
-      "target": "彼得·威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "吕克·贝松",
-      "target": "达伦·阿伦诺夫斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "吕克·贝松",
-      "target": "大卫·叶茨",
-      "linewidth": 1
-    },
-    {
-      "source": "吕克·贝松",
-      "target": "阿方索·卡隆",
-      "linewidth": 1
-    },
-    {
-      "source": "吕克·贝松",
-      "target": "迈克·内威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "吕克·贝松",
-      "target": "弗朗西斯·福特·科波拉",
-      "linewidth": 1
-    },
-    {
-      "source": "吕克·贝松",
-      "target": "赛尔乔·莱昂内",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "克里斯托弗·诺兰",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "弗兰克·德拉邦特",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "詹姆斯·卡梅隆",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "汤姆·麦卡锡",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "乔纳森·戴米",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "大卫·芬奇",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "约翰·卡尼",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "肯尼思·洛纳根",
-      "linewidth": 1
-    },
-    {
-      "source": "马丁·斯科塞斯",
-      "target": "爱德华·兹威克",
-      "linewidth": 1
-    },
-    {
-      "source": "莫滕·泰杜姆",
-      "target": "布莱恩·辛格",
-      "linewidth": 1
-    },
-    {
-      "source": "莫滕·泰杜姆",
-      "target": "理查德·柯蒂斯",
-      "linewidth": 2
-    },
-    {
-      "source": "莫滕·泰杜姆",
-      "target": "戈尔·维宾斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "莫滕·泰杜姆",
-      "target": "约翰·卡尼",
-      "linewidth": 1
-    },
-    {
-      "source": "莫滕·泰杜姆",
-      "target": "乔·赖特",
-      "linewidth": 1
-    },
-    {
-      "source": "徐克",
-      "target": "陈可辛",
-      "linewidth": 1
-    },
-    {
-      "source": "徐克",
-      "target": "吴宇森",
-      "linewidth": 1
-    },
-    {
-      "source": "徐克",
-      "target": "刘镇伟",
-      "linewidth": 2
-    },
-    {
-      "source": "徐克",
-      "target": "李惠民",
-      "linewidth": 2
-    },
-    {
-      "source": "徐克",
-      "target": "程小东",
-      "linewidth": 1
-    },
-    {
-      "source": "徐克",
-      "target": "王家卫",
-      "linewidth": 1
-    },
-    {
-      "source": "徐克",
-      "target": "王晶",
-      "linewidth": 1
-    },
-    {
-      "source": "卢卡·瓜达尼诺",
-      "target": "克里斯托弗·诺兰",
-      "linewidth": 1
-    },
-    {
-      "source": "罗杰·阿勒斯",
-      "target": "理查德·柯蒂斯",
-      "linewidth": 1
-    },
-    {
-      "source": "罗杰·阿勒斯",
-      "target": "罗伯·明可夫",
-      "linewidth": 10
-    },
-    {
-      "source": "罗杰·阿勒斯",
-      "target": "肯尼思·洛纳根",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·雷纳德",
-      "target": "彼特·道格特",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·雷纳德",
-      "target": "迪恩·德布洛斯",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·雷纳德",
-      "target": "罗伯特·怀斯",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·雷纳德",
-      "target": "皮埃尔·柯芬",
-      "linewidth": 18
-    },
-    {
-      "source": "克里斯·雷纳德",
-      "target": "罗纳尔多·德尔·卡门",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "弗兰克·德拉邦特",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "拉娜·沃卓斯基",
-      "linewidth": 2
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "布莱恩·辛格",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
+      "source": "拉斯·霍尔斯道姆",
       "target": "保罗·格林格拉斯",
       "linewidth": 1
     },
     {
-      "source": "克里斯托弗·诺兰",
-      "target": "雷德利·斯科特",
-      "linewidth": 2
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "理查德·柯蒂斯",
+      "source": "拉斯·霍尔斯道姆",
+      "target": "贝纳尔多·贝托鲁奇",
       "linewidth": 1
     },
     {
-      "source": "克里斯托弗·诺兰",
-      "target": "大卫·叶茨",
+      "source": "拉斯·霍尔斯道姆",
+      "target": "尼克·卡萨维蒂",
       "linewidth": 1
     },
     {
-      "source": "克里斯托弗·诺兰",
-      "target": "阿方索·卡隆",
+      "source": "拉斯·霍尔斯道姆",
+      "target": "伦尼·阿伯拉罕森",
       "linewidth": 1
     },
     {
-      "source": "克里斯托弗·诺兰",
-      "target": "道格·里曼",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "罗伯·莱纳",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "格斯·范·桑特",
-      "linewidth": 2
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "蒂姆·波顿",
-      "linewidth": 2
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "斯蒂芬·卓博斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "詹姆斯·卡梅隆",
-      "linewidth": 2
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "莉莉·沃卓斯基",
-      "linewidth": 2
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "乔纳森·戴米",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "迈克·内威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "刘伟强",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "大卫·芬奇",
-      "linewidth": 2
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "埃里克·布雷斯",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "麦兆辉",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "肯尼思·洛纳根",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "彼得·杰克逊",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "乔·赖特",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯托弗·诺兰",
-      "target": "爱德华·兹威克",
-      "linewidth": 1
-    },
-    {
-      "source": "钱运达",
-      "target": "万籁鸣",
-      "linewidth": 5
-    },
-    {
-      "source": "钱运达",
-      "target": "徐景达",
-      "linewidth": 4
-    },
-    {
-      "source": "钱运达",
-      "target": "王树忱",
-      "linewidth": 26
-    },
-    {
-      "source": "钱运达",
-      "target": "严定宪",
-      "linewidth": 4
-    },
-    {
-      "source": "宁浩",
-      "target": "文牧野",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "温子仁",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "罗伯·莱纳",
-      "linewidth": 2
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "罗伯特·泽米吉斯",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "唐·霍尔",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "大卫·西尔弗曼",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "彼特·道格特",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "大卫·芬奇",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "巴瑞·莱文森",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "李·昂克里奇",
-      "linewidth": 2
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "拜伦·霍华德",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "弗朗西斯·福特·科波拉",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "杰拉德·布什",
-      "linewidth": 1
-    },
-    {
-      "source": "弗兰克·德拉邦特",
-      "target": "马丁·麦克唐纳",
-      "linewidth": 1
-    },
-    {
-      "source": "陈可辛",
-      "target": "刘镇伟",
-      "linewidth": 1
-    },
-    {
-      "source": "陈可辛",
-      "target": "李惠民",
-      "linewidth": 1
-    },
-    {
-      "source": "陈可辛",
-      "target": "王家卫",
-      "linewidth": 1
-    },
-    {
-      "source": "陈可辛",
-      "target": "罗启锐",
-      "linewidth": 1
-    },
-    {
-      "source": "陈可辛",
-      "target": "刘伟强",
-      "linewidth": 1
-    },
-    {
-      "source": "陈可辛",
-      "target": "麦兆辉",
-      "linewidth": 1
-    },
-    {
-      "source": "拉娜·沃卓斯基",
-      "target": "温子仁",
-      "linewidth": 1
-    },
-    {
-      "source": "拉娜·沃卓斯基",
-      "target": "茂文·勒鲁瓦",
-      "linewidth": 1
-    },
-    {
-      "source": "拉娜·沃卓斯基",
-      "target": "朱塞佩·托纳多雷",
-      "linewidth": 1
-    },
-    {
-      "source": "拉娜·沃卓斯基",
-      "target": "莉莉·沃卓斯基",
-      "linewidth": 67
-    },
-    {
-      "source": "拉娜·沃卓斯基",
-      "target": "王家卫",
-      "linewidth": 1
-    },
-    {
-      "source": "拉娜·沃卓斯基",
-      "target": "梅尔·吉布森",
-      "linewidth": 1
-    },
-    {
-      "source": "拉娜·沃卓斯基",
-      "target": "彼得·杰克逊",
-      "linewidth": 3
-    },
-    {
-      "source": "拉娜·沃卓斯基",
-      "target": "王晶",
-      "linewidth": 1
-    },
-    {
-      "source": "泷田洋二郎",
+      "source": "新海诚",
       "target": "宫崎骏",
       "linewidth": 1
     },
     {
-      "source": "彼得·威尔",
-      "target": "理查德·柯蒂斯",
+      "source": "新海诚",
+      "target": "米林宏昌",
       "linewidth": 1
     },
     {
-      "source": "彼得·威尔",
-      "target": "格斯·范·桑特",
+      "source": "新海诚",
+      "target": "是枝裕和",
       "linewidth": 1
     },
     {
-      "source": "彼得·威尔",
-      "target": "安德鲁·尼科尔",
+      "source": "克林特·伊斯特伍德",
+      "target": "杰茜·尼尔森",
       "linewidth": 1
     },
     {
-      "source": "彼得·威尔",
-      "target": "埃里克·布雷斯",
+      "source": "克林特·伊斯特伍德",
+      "target": "克里斯托弗·诺兰",
       "linewidth": 1
     },
     {
-      "source": "华森·波克彭",
-      "target": "普特鹏·普罗萨卡·那·萨克那卡林",
-      "linewidth": 8
-    },
-    {
-      "source": "温子仁",
-      "target": "莉莉·沃卓斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "布莱恩·辛格",
-      "target": "理查德·柯蒂斯",
-      "linewidth": 1
-    },
-    {
-      "source": "布莱恩·辛格",
+      "source": "史蒂芬·戴德利",
       "target": "迈克·内威尔",
       "linewidth": 1
     },
     {
-      "source": "布莱恩·辛格",
-      "target": "乔·赖特",
+      "source": "史蒂芬·戴德利",
+      "target": "詹姆斯·卡梅隆",
       "linewidth": 1
     },
     {
-      "source": "保罗·格林格拉斯",
-      "target": "拉斯·霍尔斯道姆",
+      "source": "史蒂芬·戴德利",
+      "target": "韦斯·安德森",
       "linewidth": 1
     },
     {
-      "source": "保罗·格林格拉斯",
-      "target": "道格·里曼",
-      "linewidth": 6
-    },
-    {
-      "source": "保罗·格林格拉斯",
-      "target": "尼克·卡萨维蒂",
+      "source": "史蒂芬·戴德利",
+      "target": "史蒂文·斯皮尔伯格",
       "linewidth": 1
     },
     {
-      "source": "保罗·格林格拉斯",
-      "target": "格斯·范·桑特",
-      "linewidth": 1
-    },
-    {
-      "source": "保罗·格林格拉斯",
-      "target": "蒂姆·波顿",
-      "linewidth": 1
-    },
-    {
-      "source": "保罗·格林格拉斯",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "保罗·格林格拉斯",
-      "target": "乔纳森·戴米",
-      "linewidth": 1
-    },
-    {
-      "source": "保罗·格林格拉斯",
-      "target": "邓肯·琼斯",
-      "linewidth": 1
-    },
-    {
-      "source": "保罗·格林格拉斯",
-      "target": "梅尔·吉布森",
-      "linewidth": 1
-    },
-    {
-      "source": "保罗·格林格拉斯",
-      "target": "彼得·杰克逊",
-      "linewidth": 2
-    },
-    {
-      "source": "陈凯歌",
-      "target": "吴宇森",
-      "linewidth": 1
-    },
-    {
-      "source": "陈凯歌",
-      "target": "刘镇伟",
-      "linewidth": 1
-    },
-    {
-      "source": "陈凯歌",
-      "target": "姜文",
-      "linewidth": 2
-    },
-    {
-      "source": "陈凯歌",
-      "target": "程小东",
-      "linewidth": 1
-    },
-    {
-      "source": "陈凯歌",
-      "target": "王家卫",
-      "linewidth": 1
-    },
-    {
-      "source": "陈凯歌",
-      "target": "李力持",
-      "linewidth": 1
-    },
-    {
-      "source": "吴宇森",
-      "target": "刘镇伟",
-      "linewidth": 1
-    },
-    {
-      "source": "吴宇森",
-      "target": "姜文",
-      "linewidth": 1
-    },
-    {
-      "source": "吴宇森",
-      "target": "程小东",
-      "linewidth": 1
-    },
-    {
-      "source": "吴宇森",
-      "target": "王家卫",
-      "linewidth": 1
-    },
-    {
-      "source": "雅克·贝汉",
-      "target": "朱塞佩·托纳多雷",
-      "linewidth": 1
-    },
-    {
-      "source": "雅克·贝汉",
-      "target": "克里斯托夫·巴拉蒂",
-      "linewidth": 1
-    },
-    {
-      "source": "黄东赫",
-      "target": "延尚昊",
-      "linewidth": 2
-    },
-    {
-      "source": "万籁鸣",
-      "target": "徐景达",
-      "linewidth": 5
-    },
-    {
-      "source": "万籁鸣",
-      "target": "王树忱",
-      "linewidth": 6
-    },
-    {
-      "source": "万籁鸣",
-      "target": "严定宪",
-      "linewidth": 5
-    },
-    {
-      "source": "M·奈特·沙马兰",
-      "target": "罗伯特·泽米吉斯",
-      "linewidth": 1
-    },
-    {
-      "source": "M·奈特·沙马兰",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "雷德利·斯科特",
+      "source": "史蒂芬·戴德利",
       "target": "大卫·叶茨",
       "linewidth": 1
     },
     {
-      "source": "雷德利·斯科特",
-      "target": "蒂姆·波顿",
+      "source": "皮埃尔·柯芬",
+      "target": "彼特·道格特",
       "linewidth": 1
     },
     {
-      "source": "雷德利·斯科特",
-      "target": "迈克·内威尔",
+      "source": "皮埃尔·柯芬",
+      "target": "迪恩·德布洛斯",
       "linewidth": 1
     },
     {
-      "source": "雷德利·斯科特",
-      "target": "克里斯·哥伦布",
+      "source": "皮埃尔·柯芬",
+      "target": "瑞奇·摩尔",
+      "linewidth": 2
+    },
+    {
+      "source": "皮埃尔·柯芬",
+      "target": "罗伯特·怀斯",
       "linewidth": 1
     },
     {
-      "source": "雷德利·斯科特",
+      "source": "皮埃尔·柯芬",
+      "target": "克里斯·桑德斯",
+      "linewidth": 1
+    },
+    {
+      "source": "皮埃尔·柯芬",
+      "target": "克里斯·雷纳德",
+      "linewidth": 18
+    },
+    {
+      "source": "皮埃尔·柯芬",
+      "target": "罗纳尔多·德尔·卡门",
+      "linewidth": 1
+    },
+    {
+      "source": "神山征二郎",
+      "target": "黑泽明",
+      "linewidth": 1
+    },
+    {
+      "source": "杨宇硕",
+      "target": "秋昌旼",
+      "linewidth": 1
+    },
+    {
+      "source": "杨宇硕",
+      "target": "奉俊昊",
+      "linewidth": 2
+    },
+    {
+      "source": "杨宇硕",
+      "target": "李焕庆",
+      "linewidth": 1
+    },
+    {
+      "source": "杨德昌",
+      "target": "李安",
+      "linewidth": 1
+    },
+    {
+      "source": "杨德昌",
+      "target": "黄信尧",
+      "linewidth": 1
+    },
+    {
+      "source": "杨德昌",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "莫滕·泰杜姆",
       "target": "戈尔·维宾斯基",
       "linewidth": 1
     },
     {
-      "source": "雷德利·斯科特",
-      "target": "彼得·杰克逊",
-      "linewidth": 1
-    },
-    {
-      "source": "雷德利·斯科特",
-      "target": "丹尼·博伊尔",
-      "linewidth": 2
-    },
-    {
-      "source": "达伦·阿伦诺夫斯基",
-      "target": "蒂姆·波顿",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·柯蒂斯",
-      "target": "大卫·叶茨",
-      "linewidth": 3
-    },
-    {
-      "source": "理查德·柯蒂斯",
-      "target": "阿方索·卡隆",
-      "linewidth": 2
-    },
-    {
-      "source": "理查德·柯蒂斯",
-      "target": "尼克·卡萨维蒂",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·柯蒂斯",
-      "target": "汤姆·麦卡锡",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·柯蒂斯",
-      "target": "迈克·内威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·柯蒂斯",
-      "target": "克里斯·哥伦布",
-      "linewidth": 2
-    },
-    {
-      "source": "理查德·柯蒂斯",
-      "target": "戈尔·维宾斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "理查德·柯蒂斯",
+      "source": "莫滕·泰杜姆",
       "target": "约翰·卡尼",
       "linewidth": 1
     },
     {
-      "source": "理查德·柯蒂斯",
-      "target": "罗伯·明可夫",
+      "source": "莫滕·泰杜姆",
+      "target": "布莱恩·辛格",
       "linewidth": 1
     },
     {
-      "source": "理查德·柯蒂斯",
-      "target": "汤姆·提克威",
-      "linewidth": 1
+      "source": "莫滕·泰杜姆",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 2
     },
     {
-      "source": "理查德·柯蒂斯",
+      "source": "莫滕·泰杜姆",
       "target": "乔·赖特",
-      "linewidth": 2
-    },
-    {
-      "source": "刘镇伟",
-      "target": "李惠民",
-      "linewidth": 3
-    },
-    {
-      "source": "刘镇伟",
-      "target": "姜文",
       "linewidth": 1
     },
     {
-      "source": "刘镇伟",
-      "target": "程小东",
-      "linewidth": 2
-    },
-    {
-      "source": "刘镇伟",
-      "target": "王家卫",
-      "linewidth": 7
-    },
-    {
-      "source": "刘镇伟",
-      "target": "周星驰",
-      "linewidth": 3
-    },
-    {
-      "source": "刘镇伟",
-      "target": "李力持",
-      "linewidth": 5
-    },
-    {
-      "source": "刘镇伟",
-      "target": "刘伟强",
-      "linewidth": 2
-    },
-    {
-      "source": "刘镇伟",
-      "target": "麦兆辉",
-      "linewidth": 2
-    },
-    {
-      "source": "刘镇伟",
-      "target": "王晶",
-      "linewidth": 3
-    },
-    {
-      "source": "李惠民",
-      "target": "王家卫",
-      "linewidth": 3
-    },
-    {
-      "source": "李惠民",
-      "target": "周星驰",
+      "source": "杰茜·尼尔森",
+      "target": "蒂姆·波顿",
       "linewidth": 1
     },
     {
-      "source": "李惠民",
-      "target": "王晶",
-      "linewidth": 3
+      "source": "今敏",
+      "target": "大森贵弘",
+      "linewidth": 1
+    },
+    {
+      "source": "今敏",
+      "target": "宫崎骏",
+      "linewidth": 4
+    },
+    {
+      "source": "今敏",
+      "target": "细田守",
+      "linewidth": 1
+    },
+    {
+      "source": "今敏",
+      "target": "藤森雅也",
+      "linewidth": 1
+    },
+    {
+      "source": "大森贵弘",
+      "target": "宫崎骏",
+      "linewidth": 1
+    },
+    {
+      "source": "查理·卓别林",
+      "target": "茂文·勒鲁瓦",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "彼特·道格特",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "迪恩·德布洛斯",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "瑞奇·摩尔",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "安德鲁·尼科尔",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "唐·霍尔",
+      "linewidth": 15
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "拜伦·霍华德",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "杰拉德·布什",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "克里斯·桑德斯",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯·威廉姆斯",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
     },
     {
       "source": "阿尔弗雷德·希区柯克",
       "target": "西德尼·吕美特",
+      "linewidth": 1
+    },
+    {
+      "source": "朱塞佩·托纳多雷",
+      "target": " 雅克·克鲁奥德",
+      "linewidth": 1
+    },
+    {
+      "source": "朱塞佩·托纳多雷",
+      "target": "弗朗西斯·福特·科波拉",
+      "linewidth": 1
+    },
+    {
+      "source": "朱塞佩·托纳多雷",
+      "target": "詹姆斯·曼高德",
+      "linewidth": 1
+    },
+    {
+      "source": "朱塞佩·托纳多雷",
+      "target": "拉娜·沃卓斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "朱塞佩·托纳多雷",
+      "target": "莉莉·沃卓斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "朱塞佩·托纳多雷",
+      "target": "克里斯托夫·巴拉蒂",
+      "linewidth": 1
+    },
+    {
+      "source": "朱塞佩·托纳多雷",
+      "target": "雅克·贝汉",
+      "linewidth": 1
+    },
+    {
+      "source": "朴勋政",
+      "target": "秋昌旼",
       "linewidth": 1
     },
     {
@@ -2868,179 +1663,34 @@
       "linewidth": 1
     },
     {
-      "source": "杨德昌",
-      "target": "王家卫",
+      "source": "斯坦利·多南",
+      "target": "吉恩·凯利",
+      "linewidth": 53
+    },
+    {
+      "source": "斯蒂芬·卓博斯基",
+      "target": "克里斯托弗·诺兰",
       "linewidth": 1
     },
     {
-      "source": "杨德昌",
-      "target": "黄信尧",
-      "linewidth": 1
-    },
-    {
-      "source": "拉斯·霍尔斯道姆",
-      "target": "尼克·卡萨维蒂",
-      "linewidth": 1
-    },
-    {
-      "source": "拉斯·霍尔斯道姆",
-      "target": "贝纳尔多·贝托鲁奇",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·曼高德",
-      "target": "罗伯·莱纳",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·曼高德",
-      "target": "朱塞佩·托纳多雷",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·曼高德",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·曼高德",
-      "target": "埃里克·布雷斯",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·曼高德",
-      "target": "弗朗西斯·福特·科波拉",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·曼高德",
-      "target": "马丁·麦克唐纳",
-      "linewidth": 1
-    },
-    {
-      "source": "克里斯·韦奇",
-      "target": "卡洛斯·沙尔丹哈",
-      "linewidth": 4
-    },
-    {
-      "source": "大卫·叶茨",
-      "target": "阿方索·卡隆",
-      "linewidth": 13
-    },
-    {
-      "source": "大卫·叶茨",
-      "target": "蒂姆·波顿",
-      "linewidth": 1
-    },
-    {
-      "source": "大卫·叶茨",
+      "source": "斯蒂芬·卓博斯基",
       "target": "韦斯·安德森",
       "linewidth": 1
     },
     {
-      "source": "大卫·叶茨",
-      "target": "迈克·内威尔",
-      "linewidth": 17
-    },
-    {
-      "source": "大卫·叶茨",
-      "target": "克里斯·哥伦布",
-      "linewidth": 11
-    },
-    {
-      "source": "大卫·叶茨",
-      "target": "大卫·芬奇",
+      "source": "斯蒂芬·卓博斯基",
+      "target": "伦尼·阿伯拉罕森",
       "linewidth": 1
     },
     {
-      "source": "大卫·叶茨",
-      "target": "汤姆·提克威",
-      "linewidth": 2
-    },
-    {
-      "source": "大卫·叶茨",
-      "target": "丹尼·博伊尔",
+      "source": "道格·里曼",
+      "target": "克里斯托弗·诺兰",
       "linewidth": 1
     },
     {
-      "source": "杨宇硕",
-      "target": "秋昌旼",
-      "linewidth": 1
-    },
-    {
-      "source": "徐景达",
-      "target": "王树忱",
+      "source": "道格·里曼",
+      "target": "保罗·格林格拉斯",
       "linewidth": 6
-    },
-    {
-      "source": "徐景达",
-      "target": "严定宪",
-      "linewidth": 6
-    },
-    {
-      "source": "新海诚",
-      "target": "宫崎骏",
-      "linewidth": 1
-    },
-    {
-      "source": "新海诚",
-      "target": "米林宏昌",
-      "linewidth": 1
-    },
-    {
-      "source": "新海诚",
-      "target": "是枝裕和",
-      "linewidth": 1
-    },
-    {
-      "source": "茂文·勒鲁瓦",
-      "target": "莉莉·沃卓斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "茂文·勒鲁瓦",
-      "target": "罗伯特·怀斯",
-      "linewidth": 1
-    },
-    {
-      "source": "茂文·勒鲁瓦",
-      "target": "维克多·弗莱明",
-      "linewidth": 1
-    },
-    {
-      "source": "茂文·勒鲁瓦",
-      "target": "查理·卓别林",
-      "linewidth": 1
-    },
-    {
-      "source": "茂文·勒鲁瓦",
-      "target": "乔治·库克",
-      "linewidth": 1
-    },
-    {
-      "source": "茂文·勒鲁瓦",
-      "target": "山姆·伍德",
-      "linewidth": 1
-    },
-    {
-      "source": "阿方索·卡隆",
-      "target": "迈克·内威尔",
-      "linewidth": 10
-    },
-    {
-      "source": "阿方索·卡隆",
-      "target": "克里斯·哥伦布",
-      "linewidth": 8
-    },
-    {
-      "source": "阿方索·卡隆",
-      "target": "汤姆·提克威",
-      "linewidth": 1
-    },
-    {
-      "source": "卡比尔·汗",
-      "target": "拉吉库马尔·希拉尼",
-      "linewidth": 1
     },
     {
       "source": "道格·里曼",
@@ -3049,7 +1699,7 @@
     },
     {
       "source": "道格·里曼",
-      "target": "昆汀·塔伦蒂诺",
+      "target": "史蒂文·斯皮尔伯格",
       "linewidth": 1
     },
     {
@@ -3063,353 +1713,318 @@
       "linewidth": 1
     },
     {
-      "source": "罗伯·莱纳",
+      "source": "克里斯托弗·诺兰",
+      "target": "保罗·格林格拉斯",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "迈克·内威尔",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
       "target": "大卫·芬奇",
-      "linewidth": 1
+      "linewidth": 2
     },
     {
-      "source": "罗伯·莱纳",
-      "target": "米洛斯·福尔曼",
-      "linewidth": 1
+      "source": "克里斯托弗·诺兰",
+      "target": "詹姆斯·卡梅隆",
+      "linewidth": 2
     },
     {
-      "source": "罗伯·莱纳",
-      "target": "约翰·卡尼",
-      "linewidth": 1
-    },
-    {
-      "source": "罗伯·莱纳",
+      "source": "克里斯托弗·诺兰",
       "target": "爱德华·兹威克",
       "linewidth": 1
     },
     {
-      "source": "尼克·卡萨维蒂",
-      "target": "汤姆·麦卡锡",
+      "source": "克里斯托弗·诺兰",
+      "target": "李安",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "埃里克·布雷斯",
       "linewidth": 1
     },
     {
-      "source": "格斯·范·桑特",
-      "target": "大卫·芬奇",
+      "source": "克里斯托弗·诺兰",
+      "target": "格斯·范·桑特",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "彼得·杰克逊",
       "linewidth": 1
     },
     {
-      "source": "格斯·范·桑特",
+      "source": "克里斯托弗·诺兰",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 4
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "大卫·叶茨",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "蒂姆·波顿",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "拉娜·沃卓斯基",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "乔治·米勒",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "卢卡·瓜达尼诺",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "罗伯·莱纳",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "阿方索·卡隆",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "布莱恩·辛格",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "麦兆辉",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "乔纳森·戴米",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "莉莉·沃卓斯基",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "J·麦基·格鲁伯",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "让-马克·瓦雷",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "乔·赖特",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托弗·诺兰",
       "target": "肯尼思·洛纳根",
       "linewidth": 1
     },
     {
-      "source": "姜文",
-      "target": "王家卫",
-      "linewidth": 1
-    },
-    {
-      "source": "姜文",
-      "target": "贝纳尔多·贝托鲁奇",
-      "linewidth": 1
-    },
-    {
-      "source": "姜文",
-      "target": "周星驰",
-      "linewidth": 1
-    },
-    {
-      "source": "姜文",
-      "target": "刘伟强",
+      "source": "克里斯托弗·诺兰",
+      "target": "雷德利·斯科特",
       "linewidth": 2
     },
     {
-      "source": "姜文",
-      "target": "麦兆辉",
-      "linewidth": 2
-    },
-    {
-      "source": "姜文",
-      "target": "中岛哲也",
+      "source": "克里斯托弗·诺兰",
+      "target": "吕克·贝松",
       "linewidth": 1
     },
     {
-      "source": "罗伯特·泽米吉斯",
-      "target": "李·昂克里奇",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "大卫·西尔弗曼",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "杰茜·尼尔森",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "彼特·道格特",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "汤姆·麦卡锡",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "戈尔·维宾斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "大卫·芬奇",
-      "linewidth": 2
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "米洛斯·福尔曼",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "李·昂克里奇",
-      "linewidth": 1
-    },
-    {
-      "source": "蒂姆·波顿",
-      "target": "丹尼·博伊尔",
-      "linewidth": 1
-    },
-    {
-      "source": "宫崎骏",
-      "target": "米林宏昌",
-      "linewidth": 1
-    },
-    {
-      "source": "宫崎骏",
-      "target": "是枝裕和",
-      "linewidth": 1
-    },
-    {
-      "source": "宫崎骏",
-      "target": "近藤喜文",
-      "linewidth": 1
-    },
-    {
-      "source": "宫崎骏",
-      "target": "细田守",
-      "linewidth": 1
-    },
-    {
-      "source": "唐·霍尔",
-      "target": "大卫·西尔弗曼",
-      "linewidth": 1
-    },
-    {
-      "source": "唐·霍尔",
-      "target": "彼特·道格特",
-      "linewidth": 1
-    },
-    {
-      "source": "唐·霍尔",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "唐·霍尔",
-      "target": "迪恩·德布洛斯",
-      "linewidth": 1
-    },
-    {
-      "source": "唐·霍尔",
-      "target": "李·昂克里奇",
-      "linewidth": 1
-    },
-    {
-      "source": "唐·霍尔",
-      "target": "拜伦·霍华德",
-      "linewidth": 2
-    },
-    {
-      "source": "唐·霍尔",
-      "target": "杰拉德·布什",
-      "linewidth": 2
-    },
-    {
-      "source": "斯蒂芬·卓博斯基",
-      "target": "韦斯·安德森",
-      "linewidth": 1
-    },
-    {
-      "source": "柯克·德·米科",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "柯克·德·米科",
-      "target": "约翰·卡尼",
-      "linewidth": 1
-    },
-    {
-      "source": "程小东",
-      "target": "王家卫",
-      "linewidth": 1
-    },
-    {
-      "source": "朱塞佩·托纳多雷",
-      "target": "莉莉·沃卓斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "朱塞佩·托纳多雷",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "朱塞佩·托纳多雷",
+      "source": " 雅克·克鲁奥德",
       "target": "克里斯托夫·巴拉蒂",
       "linewidth": 1
     },
     {
-      "source": "朱塞佩·托纳多雷",
-      "target": "弗朗西斯·福特·科波拉",
+      "source": " 雅克·克鲁奥德",
+      "target": "雅克·贝汉",
+      "linewidth": 8
+    },
+    {
+      "source": "张艺谋",
+      "target": "宁浩",
       "linewidth": 1
     },
     {
-      "source": "米林宏昌",
-      "target": "是枝裕和",
+      "source": "张艺谋",
+      "target": "李力持",
+      "linewidth": 1
+    },
+    {
+      "source": "张艺谋",
+      "target": "陈凯歌",
       "linewidth": 2
     },
     {
-      "source": "秋昌旼",
-      "target": "朴勋政",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·卡梅隆",
-      "target": "昆汀·塔伦蒂诺",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·卡梅隆",
-      "target": "安德鲁·尼科尔",
+      "source": "张艺谋",
+      "target": "姜文",
       "linewidth": 2
     },
     {
-      "source": "詹姆斯·卡梅隆",
-      "target": "拜伦·霍华德",
+      "source": "朗·霍华德",
+      "target": "彼特·道格特",
       "linewidth": 1
     },
     {
-      "source": "詹姆斯·卡梅隆",
-      "target": "安德鲁·斯坦顿",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·卡梅隆",
-      "target": "梅尔·吉布森",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·卡梅隆",
-      "target": "彼得·杰克逊",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·卡梅隆",
-      "target": "杰拉德·布什",
-      "linewidth": 1
-    },
-    {
-      "source": "詹姆斯·卡梅隆",
+      "source": "朗·霍华德",
       "target": "爱德华·兹威克",
       "linewidth": 1
     },
     {
-      "source": "大卫·西尔弗曼",
-      "target": "彼特·道格特",
-      "linewidth": 14
-    },
-    {
-      "source": "大卫·西尔弗曼",
+      "source": "朗·霍华德",
       "target": "鲍勃·彼德森",
+      "linewidth": 1
+    },
+    {
+      "source": "朗·霍华德",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 1
+    },
+    {
+      "source": "朗·霍华德",
+      "target": "赛尔乔·莱昂内",
+      "linewidth": 1
+    },
+    {
+      "source": "朗·霍华德",
+      "target": "罗伯特·怀斯",
+      "linewidth": 1
+    },
+    {
+      "source": "朗·霍华德",
+      "target": "理查德·林克莱特",
+      "linewidth": 1
+    },
+    {
+      "source": "朗·霍华德",
+      "target": "托尼·凯耶",
+      "linewidth": 1
+    },
+    {
+      "source": "朗·霍华德",
+      "target": "彼得·威尔",
+      "linewidth": 1
+    },
+    {
+      "source": "延尚昊",
+      "target": "奉俊昊",
+      "linewidth": 1
+    },
+    {
+      "source": "延尚昊",
+      "target": "黄东赫",
       "linewidth": 2
     },
     {
-      "source": "大卫·西尔弗曼",
-      "target": "巴瑞·莱文森",
+      "source": "保罗·格林格拉斯",
+      "target": "格斯·范·桑特",
       "linewidth": 1
     },
     {
-      "source": "大卫·西尔弗曼",
-      "target": "李·昂克里奇",
-      "linewidth": 14
-    },
-    {
-      "source": "大卫·西尔弗曼",
-      "target": "拜伦·霍华德",
-      "linewidth": 1
-    },
-    {
-      "source": "大卫·西尔弗曼",
-      "target": "安德鲁·斯坦顿",
-      "linewidth": 1
-    },
-    {
-      "source": "大卫·西尔弗曼",
-      "target": "阿德里安·莫利纳",
-      "linewidth": 1
-    },
-    {
-      "source": "大卫·西尔弗曼",
-      "target": "杰拉德·布什",
-      "linewidth": 1
-    },
-    {
-      "source": "大卫·西尔弗曼",
-      "target": "罗纳尔多·德尔·卡门",
+      "source": "保罗·格林格拉斯",
+      "target": "彼得·杰克逊",
       "linewidth": 2
     },
     {
-      "source": "莉莉·沃卓斯基",
-      "target": "王家卫",
+      "source": "保罗·格林格拉斯",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 4
+    },
+    {
+      "source": "保罗·格林格拉斯",
+      "target": "蒂姆·波顿",
       "linewidth": 1
     },
     {
-      "source": "莉莉·沃卓斯基",
+      "source": "保罗·格林格拉斯",
       "target": "梅尔·吉布森",
       "linewidth": 1
     },
     {
-      "source": "莉莉·沃卓斯基",
-      "target": "彼得·杰克逊",
+      "source": "保罗·格林格拉斯",
+      "target": "邓肯·琼斯",
+      "linewidth": 1
+    },
+    {
+      "source": "保罗·格林格拉斯",
+      "target": "乔纳森·戴米",
+      "linewidth": 1
+    },
+    {
+      "source": "保罗·格林格拉斯",
+      "target": "尼克·卡萨维蒂",
+      "linewidth": 1
+    },
+    {
+      "source": "保罗·格林格拉斯",
+      "target": "伦尼·阿伯拉罕森",
+      "linewidth": 1
+    },
+    {
+      "source": "李惠民",
+      "target": "陈可辛",
+      "linewidth": 1
+    },
+    {
+      "source": "李惠民",
+      "target": "刘镇伟",
       "linewidth": 3
     },
     {
-      "source": "莉莉·沃卓斯基",
-      "target": "王晶",
+      "source": "李惠民",
+      "target": "周星驰",
       "linewidth": 1
     },
     {
-      "source": "王家卫",
-      "target": "刘伟强",
-      "linewidth": 4
-    },
-    {
-      "source": "王家卫",
-      "target": "麦兆辉",
-      "linewidth": 4
-    },
-    {
-      "source": "王家卫",
+      "source": "李惠民",
       "target": "王晶",
-      "linewidth": 1
+      "linewidth": 3
     },
     {
-      "source": "罗启锐",
-      "target": "李力持",
+      "source": "李惠民",
+      "target": "徐克",
+      "linewidth": 2
+    },
+    {
+      "source": "李惠民",
+      "target": "王家卫",
+      "linewidth": 3
+    },
+    {
+      "source": "阿米尔·汗",
+      "target": "拉吉库马尔·希拉尼",
       "linewidth": 1
     },
     {
@@ -3418,13 +2033,43 @@
       "linewidth": 1
     },
     {
-      "source": "阿米尔·汗",
-      "target": "拉吉库马尔·希拉尼",
+      "source": "汤姆·麦卡锡",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 1
+    },
+    {
+      "source": "汤姆·麦卡锡",
+      "target": "蒂姆·波顿",
+      "linewidth": 1
+    },
+    {
+      "source": "汤姆·麦卡锡",
+      "target": "约翰·卡尼",
+      "linewidth": 1
+    },
+    {
+      "source": "汤姆·麦卡锡",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "汤姆·麦卡锡",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "汤姆·麦卡锡",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "汤姆·麦卡锡",
+      "target": "尼克·卡萨维蒂",
       "linewidth": 1
     },
     {
       "source": "彼特·道格特",
-      "target": "罗伯特·怀斯",
+      "target": "爱德华·兹威克",
       "linewidth": 1
     },
     {
@@ -3439,22 +2084,27 @@
     },
     {
       "source": "彼特·道格特",
-      "target": "李·昂克里奇",
-      "linewidth": 14
+      "target": "瑞奇·摩尔",
+      "linewidth": 3
     },
     {
       "source": "彼特·道格特",
-      "target": "拜伦·霍华德",
+      "target": "蒂姆·波顿",
       "linewidth": 1
     },
     {
       "source": "彼特·道格特",
-      "target": "安德鲁·斯坦顿",
-      "linewidth": 9
+      "target": "唐·霍尔",
+      "linewidth": 1
     },
     {
       "source": "彼特·道格特",
-      "target": "皮埃尔·柯芬",
+      "target": "罗伯特·怀斯",
+      "linewidth": 1
+    },
+    {
+      "source": "彼特·道格特",
+      "target": "拜伦·霍华德",
       "linewidth": 1
     },
     {
@@ -3469,127 +2119,97 @@
     },
     {
       "source": "彼特·道格特",
+      "target": "李·昂克里奇",
+      "linewidth": 14
+    },
+    {
+      "source": "彼特·道格特",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 14
+    },
+    {
+      "source": "彼特·道格特",
+      "target": "克里斯·雷纳德",
+      "linewidth": 1
+    },
+    {
+      "source": "彼特·道格特",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "彼特·道格特",
+      "target": "安德鲁·斯坦顿",
+      "linewidth": 9
+    },
+    {
+      "source": "彼特·道格特",
       "target": "罗纳尔多·德尔·卡门",
       "linewidth": 25
     },
     {
-      "source": "彼特·道格特",
-      "target": "爱德华·兹威克",
+      "source": "戈尔·维宾斯基",
+      "target": "彼得·杰克逊",
       "linewidth": 1
     },
     {
-      "source": "汤姆·麦卡锡",
-      "target": "李·昂克里奇",
+      "source": "戈尔·维宾斯基",
+      "target": "蒂姆·波顿",
       "linewidth": 1
     },
     {
-      "source": "汤姆·麦卡锡",
+      "source": "戈尔·维宾斯基",
       "target": "约翰·卡尼",
       "linewidth": 1
     },
     {
-      "source": "昆汀·塔伦蒂诺",
+      "source": "戈尔·维宾斯基",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "戈尔·维宾斯基",
+      "target": "乔·赖特",
+      "linewidth": 1
+    },
+    {
+      "source": "戈尔·维宾斯基",
+      "target": "雷德利·斯科特",
+      "linewidth": 1
+    },
+    {
+      "source": "迈克·内威尔",
       "target": "韦斯·安德森",
       "linewidth": 1
     },
     {
-      "source": "昆汀·塔伦蒂诺",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "昆汀·塔伦蒂诺",
-      "target": "迪恩·德布洛斯",
-      "linewidth": 1
-    },
-    {
-      "source": "昆汀·塔伦蒂诺",
-      "target": "大卫·芬奇",
-      "linewidth": 1
-    },
-    {
-      "source": "昆汀·塔伦蒂诺",
-      "target": "埃里克·布雷斯",
-      "linewidth": 1
-    },
-    {
-      "source": "昆汀·塔伦蒂诺",
-      "target": "爱德华·兹威克",
-      "linewidth": 2
-    },
-    {
-      "source": "彼得·法雷里",
-      "target": "大卫·芬奇",
-      "linewidth": 1
-    },
-    {
-      "source": "彼得·法雷里",
-      "target": "彼得·杰克逊",
-      "linewidth": 1
-    },
-    {
-      "source": "埃里克·托莱达诺",
-      "target": "奥利维埃·纳卡什",
-      "linewidth": 5
-    },
-    {
-      "source": "韦斯·安德森",
-      "target": "安德鲁·尼科尔",
-      "linewidth": 1
-    },
-    {
-      "source": "韦斯·安德森",
-      "target": "迈克·内威尔",
-      "linewidth": 1
-    },
-    {
-      "source": "韦斯·安德森",
-      "target": "大卫·芬奇",
-      "linewidth": 2
-    },
-    {
-      "source": "韦斯·安德森",
-      "target": "罗曼·波兰斯基",
-      "linewidth": 1
-    },
-    {
-      "source": "安德鲁·尼科尔",
-      "target": "大卫·芬奇",
-      "linewidth": 2
-    },
-    {
-      "source": "安德鲁·尼科尔",
-      "target": "埃里克·布雷斯",
-      "linewidth": 1
-    },
-    {
-      "source": "安德鲁·尼科尔",
-      "target": "彼得·杰克逊",
-      "linewidth": 1
-    },
-    {
-      "source": "王树忱",
-      "target": "严定宪",
-      "linewidth": 6
-    },
-    {
-      "source": "周星驰",
-      "target": "李力持",
-      "linewidth": 10
-    },
-    {
-      "source": "周星驰",
-      "target": "王晶",
-      "linewidth": 2
-    },
-    {
-      "source": "乔纳森·戴米",
-      "target": "爱德华·兹威克",
+      "source": "迈克·内威尔",
+      "target": "丹尼·博伊尔",
       "linewidth": 1
     },
     {
       "source": "迈克·内威尔",
       "target": "迪恩·德布洛斯",
+      "linewidth": 1
+    },
+    {
+      "source": "迈克·内威尔",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 1
+    },
+    {
+      "source": "迈克·内威尔",
+      "target": "大卫·叶茨",
+      "linewidth": 17
+    },
+    {
+      "source": "迈克·内威尔",
+      "target": "阿方索·卡隆",
+      "linewidth": 10
+    },
+    {
+      "source": "迈克·内威尔",
+      "target": "布莱恩·辛格",
       "linewidth": 1
     },
     {
@@ -3604,98 +2224,123 @@
     },
     {
       "source": "迈克·内威尔",
-      "target": "丹尼·博伊尔",
+      "target": "理查德·柯蒂斯",
       "linewidth": 1
     },
     {
-      "source": "李力持",
-      "target": "刘伟强",
+      "source": "迈克·内威尔",
+      "target": "克里斯·桑德斯",
       "linewidth": 1
     },
     {
-      "source": "李力持",
-      "target": "麦兆辉",
+      "source": "迈克·内威尔",
+      "target": "雷德利·斯科特",
       "linewidth": 1
     },
     {
-      "source": "李力持",
-      "target": "王晶",
-      "linewidth": 5
-    },
-    {
-      "source": "迪恩·德布洛斯",
-      "target": "皮埃尔·柯芬",
+      "source": "迈克·内威尔",
+      "target": "吕克·贝松",
       "linewidth": 1
     },
     {
-      "source": "克里斯·哥伦布",
-      "target": "汤姆·提克威",
+      "source": "宫崎骏",
+      "target": "近藤喜文",
+      "linewidth": 1
+    },
+    {
+      "source": "宫崎骏",
+      "target": "细田守",
+      "linewidth": 1
+    },
+    {
+      "source": "宫崎骏",
+      "target": "北野武",
+      "linewidth": 1
+    },
+    {
+      "source": "宫崎骏",
+      "target": "米林宏昌",
+      "linewidth": 1
+    },
+    {
+      "source": "宫崎骏",
+      "target": "泷田洋二郎",
+      "linewidth": 1
+    },
+    {
+      "source": "宫崎骏",
+      "target": "是枝裕和",
+      "linewidth": 1
+    },
+    {
+      "source": "宫崎骏",
+      "target": "藤森雅也",
       "linewidth": 2
     },
     {
-      "source": "刘伟强",
-      "target": "麦兆辉",
-      "linewidth": 18
-    },
-    {
-      "source": "罗伯特·怀斯",
-      "target": "鲍勃·彼德森",
+      "source": "比利·怀德",
+      "target": "罗伯特·怀斯",
       "linewidth": 1
     },
     {
-      "source": "罗伯特·怀斯",
-      "target": "皮埃尔·柯芬",
+      "source": "比利·怀德",
+      "target": "茂文·勒鲁瓦",
       "linewidth": 1
     },
     {
-      "source": "鲍勃·彼德森",
-      "target": "李·昂克里奇",
-      "linewidth": 2
+      "source": "克里斯·韦奇",
+      "target": "卡洛斯·沙尔丹哈",
+      "linewidth": 4
     },
     {
-      "source": "鲍勃·彼德森",
-      "target": "安德鲁·斯坦顿",
-      "linewidth": 5
-    },
-    {
-      "source": "鲍勃·彼德森",
-      "target": "阿德里安·莫利纳",
-      "linewidth": 1
-    },
-    {
-      "source": "鲍勃·彼德森",
-      "target": "罗纳尔多·德尔·卡门",
-      "linewidth": 2
-    },
-    {
-      "source": "鲍勃·彼德森",
+      "source": "大卫·芬奇",
       "target": "爱德华·兹威克",
+      "linewidth": 2
+    },
+    {
+      "source": "大卫·芬奇",
+      "target": "韦斯·安德森",
+      "linewidth": 2
+    },
+    {
+      "source": "大卫·芬奇",
+      "target": "格斯·范·桑特",
       "linewidth": 1
     },
     {
-      "source": "戈尔·维宾斯基",
-      "target": "约翰·卡尼",
-      "linewidth": 1
-    },
-    {
-      "source": "戈尔·维宾斯基",
+      "source": "大卫·芬奇",
       "target": "彼得·杰克逊",
       "linewidth": 1
     },
     {
-      "source": "戈尔·维宾斯基",
-      "target": "乔·赖特",
+      "source": "大卫·芬奇",
+      "target": "安德鲁·尼科尔",
+      "linewidth": 2
+    },
+    {
+      "source": "大卫·芬奇",
+      "target": "大卫·叶茨",
       "linewidth": 1
     },
     {
-      "source": "维克多·弗莱明",
-      "target": "乔治·库克",
-      "linewidth": 32
+      "source": "大卫·芬奇",
+      "target": "蒂姆·波顿",
+      "linewidth": 2
     },
     {
-      "source": "维克多·弗莱明",
-      "target": "山姆·伍德",
-      "linewidth": 32
+      "source": "大卫·芬奇",
+      "target": "罗伯·莱纳",
+      "linewidth": 1
+    },
+    {
+      "source": "大卫·芬奇",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "大卫·芬奇",
+      "target": "让-马克·瓦雷",
+      "linewidth": 1
     },
     {
       "source": "大卫·芬奇",
@@ -3704,37 +2349,722 @@
     },
     {
       "source": "大卫·芬奇",
-      "target": "彼得·杰克逊",
-      "linewidth": 1
-    },
-    {
-      "source": "大卫·芬奇",
       "target": "乔·赖特",
       "linewidth": 1
     },
     {
       "source": "大卫·芬奇",
-      "target": "爱德华·兹威克",
-      "linewidth": 2
-    },
-    {
-      "source": "马丁·布莱斯特",
-      "target": "弗朗西斯·福特·科波拉",
+      "target": "弗兰克·德拉邦特",
       "linewidth": 1
     },
     {
-      "source": "米洛斯·福尔曼",
+      "source": "大卫·芬奇",
+      "target": "彼得·法雷里",
+      "linewidth": 1
+    },
+    {
+      "source": "罗曼·波兰斯基",
+      "target": "韦斯·安德森",
+      "linewidth": 1
+    },
+    {
+      "source": "罗曼·波兰斯基",
+      "target": "托尼·凯耶",
+      "linewidth": 1
+    },
+    {
+      "source": "秋昌旼",
+      "target": "奉俊昊",
+      "linewidth": 1
+    },
+    {
+      "source": "秋昌旼",
+      "target": "李焕庆",
+      "linewidth": 1
+    },
+    {
+      "source": "李力持",
+      "target": "陈凯歌",
+      "linewidth": 1
+    },
+    {
+      "source": "李力持",
+      "target": "刘镇伟",
+      "linewidth": 5
+    },
+    {
+      "source": "李力持",
+      "target": "周星驰",
+      "linewidth": 10
+    },
+    {
+      "source": "李力持",
+      "target": "罗启锐",
+      "linewidth": 1
+    },
+    {
+      "source": "李力持",
+      "target": "王晶",
+      "linewidth": 5
+    },
+    {
+      "source": "李力持",
+      "target": "麦兆辉",
+      "linewidth": 1
+    },
+    {
+      "source": "乔治·库克",
+      "target": "维克多·弗莱明",
+      "linewidth": 32
+    },
+    {
+      "source": "乔治·库克",
+      "target": "茂文·勒鲁瓦",
+      "linewidth": 1
+    },
+    {
+      "source": "乔治·库克",
+      "target": "山姆·伍德",
+      "linewidth": 32
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
+      "target": "爱德华·兹威克",
+      "linewidth": 1
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
       "target": "彼得·杰克逊",
       "linewidth": 1
     },
     {
-      "source": "巴瑞·莱文森",
+      "source": "詹姆斯·卡梅隆",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 3
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
+      "target": "瑞奇·摩尔",
+      "linewidth": 2
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
+      "target": "安德鲁·尼科尔",
+      "linewidth": 2
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
+      "target": "拜伦·霍华德",
+      "linewidth": 1
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
+      "target": "梅尔·吉布森",
+      "linewidth": 1
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
+      "target": "杰拉德·布什",
+      "linewidth": 1
+    },
+    {
+      "source": "詹姆斯·卡梅隆",
+      "target": "安德鲁·斯坦顿",
+      "linewidth": 1
+    },
+    {
+      "source": "爱德华·兹威克",
+      "target": "鲍勃·彼德森",
+      "linewidth": 1
+    },
+    {
+      "source": "爱德华·兹威克",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 1
+    },
+    {
+      "source": "爱德华·兹威克",
+      "target": "赛尔乔·莱昂内",
+      "linewidth": 1
+    },
+    {
+      "source": "爱德华·兹威克",
+      "target": "罗伯·莱纳",
+      "linewidth": 1
+    },
+    {
+      "source": "爱德华·兹威克",
+      "target": "乔纳森·戴米",
+      "linewidth": 1
+    },
+    {
+      "source": "爱德华·兹威克",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "韦斯·安德森",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 2
+    },
+    {
+      "source": "韦斯·安德森",
+      "target": "安德鲁·尼科尔",
+      "linewidth": 1
+    },
+    {
+      "source": "韦斯·安德森",
+      "target": "大卫·叶茨",
+      "linewidth": 1
+    },
+    {
+      "source": "韦斯·安德森",
+      "target": "托尼·凯耶",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "丹尼·博伊尔",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "洛芙琳·坦丹",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "刘镇伟",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "贝纳尔多·贝托鲁奇",
+      "linewidth": 2
+    },
+    {
+      "source": "李安",
+      "target": "邓肯·琼斯",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "麦兆辉",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "肯尼思·洛纳根",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "彼得·法雷里",
+      "linewidth": 1
+    },
+    {
+      "source": "鲍勃·彼德森",
+      "target": "瑞奇·摩尔",
+      "linewidth": 1
+    },
+    {
+      "source": "鲍勃·彼德森",
+      "target": "罗伯特·怀斯",
+      "linewidth": 1
+    },
+    {
+      "source": "鲍勃·彼德森",
+      "target": "阿德里安·莫利纳",
+      "linewidth": 1
+    },
+    {
+      "source": "鲍勃·彼德森",
       "target": "李·昂克里奇",
+      "linewidth": 2
+    },
+    {
+      "source": "鲍勃·彼德森",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 2
+    },
+    {
+      "source": "鲍勃·彼德森",
+      "target": "安德鲁·斯坦顿",
+      "linewidth": 5
+    },
+    {
+      "source": "鲍勃·彼德森",
+      "target": "罗纳尔多·德尔·卡门",
+      "linewidth": 2
+    },
+    {
+      "source": "严定宪",
+      "target": "万籁鸣",
+      "linewidth": 5
+    },
+    {
+      "source": "严定宪",
+      "target": "王树忱",
+      "linewidth": 6
+    },
+    {
+      "source": "严定宪",
+      "target": "钱运达",
+      "linewidth": 4
+    },
+    {
+      "source": "严定宪",
+      "target": "徐景达",
+      "linewidth": 6
+    },
+    {
+      "source": "严定宪",
+      "target": "唐澄",
+      "linewidth": 5
+    },
+    {
+      "source": "罗杰·阿勒斯",
+      "target": "罗伯·明可夫",
+      "linewidth": 10
+    },
+    {
+      "source": "罗杰·阿勒斯",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "罗杰·阿勒斯",
+      "target": "肯尼思·洛纳根",
+      "linewidth": 1
+    },
+    {
+      "source": "温子仁",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 1
+    },
+    {
+      "source": "温子仁",
+      "target": "拉娜·沃卓斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "温子仁",
+      "target": "莉莉·沃卓斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "温子仁",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "刘镇伟",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "程小东",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "姜文",
+      "linewidth": 2
+    },
+    {
+      "source": "陈凯歌",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "马克·赫尔曼",
+      "target": "大卫·叶茨",
+      "linewidth": 1
+    },
+    {
+      "source": "马克·赫尔曼",
+      "target": "阿方索·卡隆",
+      "linewidth": 1
+    },
+    {
+      "source": "马克·赫尔曼",
+      "target": "邓肯·琼斯",
+      "linewidth": 1
+    },
+    {
+      "source": "马克·赫尔曼",
+      "target": "乔·赖特",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯特·泽米吉斯",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 2
+    },
+    {
+      "source": "罗伯特·泽米吉斯",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯特·泽米吉斯",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯特·泽米吉斯",
+      "target": "M·奈特·沙马兰",
+      "linewidth": 1
+    },
+    {
+      "source": "弗朗西斯·福特·科波拉",
+      "target": "詹姆斯·曼高德",
+      "linewidth": 1
+    },
+    {
+      "source": "弗朗西斯·福特·科波拉",
+      "target": "赛尔乔·莱昂内",
+      "linewidth": 3
+    },
+    {
+      "source": "弗朗西斯·福特·科波拉",
+      "target": "托尼·凯耶",
+      "linewidth": 1
+    },
+    {
+      "source": "弗朗西斯·福特·科波拉",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "弗朗西斯·福特·科波拉",
+      "target": "马丁·布莱斯特",
+      "linewidth": 1
+    },
+    {
+      "source": "弗朗西斯·福特·科波拉",
+      "target": "吕克·贝松",
+      "linewidth": 1
+    },
+    {
+      "source": "丹尼·博伊尔",
+      "target": "洛芙琳·坦丹",
+      "linewidth": 11
+    },
+    {
+      "source": "丹尼·博伊尔",
+      "target": "大卫·叶茨",
+      "linewidth": 1
+    },
+    {
+      "source": "丹尼·博伊尔",
+      "target": "蒂姆·波顿",
+      "linewidth": 1
+    },
+    {
+      "source": "丹尼·博伊尔",
+      "target": "梅尔·吉布森",
+      "linewidth": 1
+    },
+    {
+      "source": "丹尼·博伊尔",
+      "target": "雷德利·斯科特",
+      "linewidth": 2
+    },
+    {
+      "source": "埃里克·布雷斯",
+      "target": "安德鲁·尼科尔",
+      "linewidth": 1
+    },
+    {
+      "source": "埃里克·布雷斯",
+      "target": "詹姆斯·曼高德",
+      "linewidth": 1
+    },
+    {
+      "source": "埃里克·布雷斯",
+      "target": "彼得·威尔",
+      "linewidth": 1
+    },
+    {
+      "source": "埃里克·布雷斯",
+      "target": "J·麦基·格鲁伯",
+      "linewidth": 16
+    },
+    {
+      "source": "陈可辛",
+      "target": "刘镇伟",
+      "linewidth": 1
+    },
+    {
+      "source": "陈可辛",
+      "target": "罗启锐",
+      "linewidth": 1
+    },
+    {
+      "source": "陈可辛",
+      "target": "徐克",
+      "linewidth": 1
+    },
+    {
+      "source": "陈可辛",
+      "target": "麦兆辉",
+      "linewidth": 1
+    },
+    {
+      "source": "陈可辛",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "拉吉库马尔·希拉尼",
+      "target": "卡比尔·汗",
+      "linewidth": 1
+    },
+    {
+      "source": "拉吉库马尔·希拉尼",
+      "target": "涅提·蒂瓦里",
+      "linewidth": 1
+    },
+    {
+      "source": "刘镇伟",
+      "target": "周星驰",
+      "linewidth": 3
+    },
+    {
+      "source": "刘镇伟",
+      "target": "王晶",
+      "linewidth": 3
+    },
+    {
+      "source": "刘镇伟",
+      "target": "程小东",
+      "linewidth": 2
+    },
+    {
+      "source": "刘镇伟",
+      "target": "徐克",
+      "linewidth": 2
+    },
+    {
+      "source": "刘镇伟",
+      "target": "姜文",
+      "linewidth": 1
+    },
+    {
+      "source": "刘镇伟",
+      "target": "麦兆辉",
+      "linewidth": 2
+    },
+    {
+      "source": "刘镇伟",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "刘镇伟",
+      "target": "王家卫",
+      "linewidth": 7
+    },
+    {
+      "source": "迪恩·德布洛斯",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 1
+    },
+    {
+      "source": "迪恩·德布洛斯",
+      "target": "唐·霍尔",
+      "linewidth": 1
+    },
+    {
+      "source": "迪恩·德布洛斯",
+      "target": "克里斯·桑德斯",
+      "linewidth": 13
+    },
+    {
+      "source": "迪恩·德布洛斯",
+      "target": "克里斯·雷纳德",
+      "linewidth": 1
+    },
+    {
+      "source": "格斯·范·桑特",
+      "target": "史蒂文·斯皮尔伯格",
+      "linewidth": 1
+    },
+    {
+      "source": "格斯·范·桑特",
+      "target": "彼得·威尔",
+      "linewidth": 1
+    },
+    {
+      "source": "格斯·范·桑特",
+      "target": "肯尼思·洛纳根",
+      "linewidth": 1
+    },
+    {
+      "source": "彼得·杰克逊",
+      "target": "安德鲁·尼科尔",
+      "linewidth": 1
+    },
+    {
+      "source": "彼得·杰克逊",
+      "target": "拉娜·沃卓斯基",
+      "linewidth": 3
+    },
+    {
+      "source": "彼得·杰克逊",
+      "target": "梅尔·吉布森",
+      "linewidth": 1
+    },
+    {
+      "source": "彼得·杰克逊",
+      "target": "莉莉·沃卓斯基",
+      "linewidth": 3
+    },
+    {
+      "source": "彼得·杰克逊",
+      "target": "米洛斯·福尔曼",
+      "linewidth": 1
+    },
+    {
+      "source": "彼得·杰克逊",
+      "target": "彼得·法雷里",
+      "linewidth": 1
+    },
+    {
+      "source": "彼得·杰克逊",
+      "target": "雷德利·斯科特",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "安德鲁·尼科尔",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "大卫·叶茨",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "达米恩·查泽雷",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "唐·霍尔",
+      "linewidth": 2
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "理查德·林克莱特",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "托尼·凯耶",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "邓肯·琼斯",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 2
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "让-马克·瓦雷",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "克里斯·桑德斯",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "加布里埃莱·穆奇诺",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 3
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "伦尼·阿伯拉罕森",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "M·奈特·沙马兰",
+      "linewidth": 1
+    },
+    {
+      "source": "史蒂文·斯皮尔伯格",
+      "target": "雷德利·斯科特",
+      "linewidth": 1
+    },
+    {
+      "source": "北野武",
+      "target": "泷田洋二郎",
+      "linewidth": 1
+    },
+    {
+      "source": "北野武",
+      "target": "中岛哲也",
+      "linewidth": 1
+    },
+    {
+      "source": "巴瑞·莱文森",
+      "target": "瑞奇·摩尔",
       "linewidth": 1
     },
     {
       "source": "巴瑞·莱文森",
       "target": "拜伦·霍华德",
+      "linewidth": 1
+    },
+    {
+      "source": "巴瑞·莱文森",
+      "target": "杰拉德·布什",
       "linewidth": 1
     },
     {
@@ -3744,7 +3074,652 @@
     },
     {
       "source": "巴瑞·莱文森",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "巴瑞·莱文森",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 1
+    },
+    {
+      "source": "巴瑞·莱文森",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "达米恩·查泽雷",
+      "linewidth": 1
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "唐·霍尔",
+      "linewidth": 2
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "拜伦·霍华德",
+      "linewidth": 33
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "罗伯·莱纳",
+      "linewidth": 1
+    },
+    {
+      "source": "瑞奇·摩尔",
       "target": "杰拉德·布什",
+      "linewidth": 33
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 1
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "克里斯·雷纳德",
+      "linewidth": 2
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "安德鲁·斯坦顿",
+      "linewidth": 1
+    },
+    {
+      "source": "瑞奇·摩尔",
+      "target": "罗纳尔多·德尔·卡门",
+      "linewidth": 1
+    },
+    {
+      "source": "奥利维埃·纳卡什",
+      "target": "埃里克·托莱达诺",
+      "linewidth": 5
+    },
+    {
+      "source": "维克多·弗莱明",
+      "target": "茂文·勒鲁瓦",
+      "linewidth": 1
+    },
+    {
+      "source": "维克多·弗莱明",
+      "target": "山姆·伍德",
+      "linewidth": 32
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "蒂姆·波顿",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "詹姆斯·曼高德",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "唐·霍尔",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "理查德·林克莱特",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "彼得·威尔",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "柯克·德·米科",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "J·麦基·格鲁伯",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "让-马克·瓦雷",
+      "linewidth": 1
+    },
+    {
+      "source": "安德鲁·尼科尔",
+      "target": "克里斯·桑德斯",
+      "linewidth": 1
+    },
+    {
+      "source": "大卫·叶茨",
+      "target": "蒂姆·波顿",
+      "linewidth": 1
+    },
+    {
+      "source": "大卫·叶茨",
+      "target": "阿方索·卡隆",
+      "linewidth": 13
+    },
+    {
+      "source": "大卫·叶茨",
+      "target": "克里斯·哥伦布",
+      "linewidth": 11
+    },
+    {
+      "source": "大卫·叶茨",
+      "target": "汤姆·提克威",
+      "linewidth": 2
+    },
+    {
+      "source": "大卫·叶茨",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 3
+    },
+    {
+      "source": "大卫·叶茨",
+      "target": "雷德利·斯科特",
+      "linewidth": 1
+    },
+    {
+      "source": "大卫·叶茨",
+      "target": "吕克·贝松",
+      "linewidth": 1
+    },
+    {
+      "source": "蒂姆·波顿",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "蒂姆·波顿",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 1
+    },
+    {
+      "source": "蒂姆·波顿",
+      "target": "达伦·阿伦诺夫斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "蒂姆·波顿",
+      "target": "米洛斯·福尔曼",
+      "linewidth": 1
+    },
+    {
+      "source": "蒂姆·波顿",
+      "target": "雷德利·斯科特",
+      "linewidth": 1
+    },
+    {
+      "source": "詹姆斯·曼高德",
+      "target": "罗伯·莱纳",
+      "linewidth": 1
+    },
+    {
+      "source": "詹姆斯·曼高德",
+      "target": "马丁·麦克唐纳",
+      "linewidth": 1
+    },
+    {
+      "source": "詹姆斯·曼高德",
+      "target": "J·麦基·格鲁伯",
+      "linewidth": 1
+    },
+    {
+      "source": "赛尔乔·莱昂内",
+      "target": "吕克·贝松",
+      "linewidth": 1
+    },
+    {
+      "source": "万籁鸣",
+      "target": "王树忱",
+      "linewidth": 6
+    },
+    {
+      "source": "万籁鸣",
+      "target": "钱运达",
+      "linewidth": 5
+    },
+    {
+      "source": "万籁鸣",
+      "target": "徐景达",
+      "linewidth": 5
+    },
+    {
+      "source": "万籁鸣",
+      "target": "唐澄",
+      "linewidth": 7
+    },
+    {
+      "source": "达米恩·查泽雷",
+      "target": "拜伦·霍华德",
+      "linewidth": 1
+    },
+    {
+      "source": "达米恩·查泽雷",
+      "target": "杰拉德·布什",
+      "linewidth": 1
+    },
+    {
+      "source": "周星驰",
+      "target": "王晶",
+      "linewidth": 2
+    },
+    {
+      "source": "周星驰",
+      "target": "姜文",
+      "linewidth": 1
+    },
+    {
+      "source": "唐·霍尔",
+      "target": "拜伦·霍华德",
+      "linewidth": 2
+    },
+    {
+      "source": "唐·霍尔",
+      "target": "杰拉德·布什",
+      "linewidth": 2
+    },
+    {
+      "source": "唐·霍尔",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "唐·霍尔",
+      "target": "克里斯·桑德斯",
+      "linewidth": 1
+    },
+    {
+      "source": "唐·霍尔",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 1
+    },
+    {
+      "source": "唐·霍尔",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "王晶",
+      "target": "拉娜·沃卓斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "王晶",
+      "target": "徐克",
+      "linewidth": 1
+    },
+    {
+      "source": "王晶",
+      "target": "莉莉·沃卓斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "王晶",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "拉娜·沃卓斯基",
+      "target": "梅尔·吉布森",
+      "linewidth": 1
+    },
+    {
+      "source": "拉娜·沃卓斯基",
+      "target": "茂文·勒鲁瓦",
+      "linewidth": 1
+    },
+    {
+      "source": "拉娜·沃卓斯基",
+      "target": "莉莉·沃卓斯基",
+      "linewidth": 67
+    },
+    {
+      "source": "拉娜·沃卓斯基",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯特·怀斯",
+      "target": "茂文·勒鲁瓦",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯特·怀斯",
+      "target": "吉恩·凯利",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯特·怀斯",
+      "target": "克里斯·雷纳德",
+      "linewidth": 1
+    },
+    {
+      "source": "乔治·米勒",
+      "target": "雷德利·斯科特",
+      "linewidth": 1
+    },
+    {
+      "source": "王树忱",
+      "target": "钱运达",
+      "linewidth": 26
+    },
+    {
+      "source": "王树忱",
+      "target": "徐景达",
+      "linewidth": 6
+    },
+    {
+      "source": "王树忱",
+      "target": "唐澄",
+      "linewidth": 6
+    },
+    {
+      "source": "华森·波克彭",
+      "target": "普特鹏·普罗萨卡·那·萨克那卡林",
+      "linewidth": 8
+    },
+    {
+      "source": "程小东",
+      "target": "徐克",
+      "linewidth": 1
+    },
+    {
+      "source": "程小东",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "程小东",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "理查德·林克莱特",
+      "target": "彼得·威尔",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯·明可夫",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯·明可夫",
+      "target": "肯尼思·洛纳根",
+      "linewidth": 1
+    },
+    {
+      "source": "拜伦·霍华德",
+      "target": "杰拉德·布什",
+      "linewidth": 33
+    },
+    {
+      "source": "拜伦·霍华德",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "拜伦·霍华德",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 1
+    },
+    {
+      "source": "拜伦·霍华德",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯·莱纳",
+      "target": "约翰·卡尼",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯·莱纳",
+      "target": "米洛斯·福尔曼",
+      "linewidth": 1
+    },
+    {
+      "source": "罗伯·莱纳",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 2
+    },
+    {
+      "source": "约翰·卡尼",
+      "target": "柯克·德·米科",
+      "linewidth": 1
+    },
+    {
+      "source": "约翰·卡尼",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "约翰·卡尼",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "约翰·卡尼",
+      "target": "乔·赖特",
+      "linewidth": 1
+    },
+    {
+      "source": "约翰·卡尼",
+      "target": "克里斯·桑德斯",
+      "linewidth": 1
+    },
+    {
+      "source": "徐克",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "徐克",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "梅尔·吉布森",
+      "target": "莉莉·沃卓斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "刘露",
+      "target": "周申",
+      "linewidth": 12
+    },
+    {
+      "source": "贝纳尔多·贝托鲁奇",
+      "target": "姜文",
+      "linewidth": 1
+    },
+    {
+      "source": "阿方索·卡隆",
+      "target": "克里斯·哥伦布",
+      "linewidth": 8
+    },
+    {
+      "source": "阿方索·卡隆",
+      "target": "汤姆·提克威",
+      "linewidth": 1
+    },
+    {
+      "source": "阿方索·卡隆",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 2
+    },
+    {
+      "source": "阿方索·卡隆",
+      "target": "吕克·贝松",
+      "linewidth": 1
+    },
+    {
+      "source": "彼得·威尔",
+      "target": "J·麦基·格鲁伯",
+      "linewidth": 1
+    },
+    {
+      "source": "彼得·威尔",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "彼得·威尔",
+      "target": "吕克·贝松",
+      "linewidth": 1
+    },
+    {
+      "source": "茂文·勒鲁瓦",
+      "target": "莉莉·沃卓斯基",
+      "linewidth": 1
+    },
+    {
+      "source": "茂文·勒鲁瓦",
+      "target": "山姆·伍德",
+      "linewidth": 1
+    },
+    {
+      "source": "阿德里安·莫利纳",
+      "target": "李·昂克里奇",
+      "linewidth": 23
+    },
+    {
+      "source": "阿德里安·莫利纳",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 1
+    },
+    {
+      "source": "阿德里安·莫利纳",
+      "target": "安德鲁·斯坦顿",
+      "linewidth": 1
+    },
+    {
+      "source": "阿德里安·莫利纳",
+      "target": "罗纳尔多·德尔·卡门",
+      "linewidth": 1
+    },
+    {
+      "source": "姜文",
+      "target": "麦兆辉",
+      "linewidth": 2
+    },
+    {
+      "source": "姜文",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "姜文",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "姜文",
+      "target": "中岛哲也",
+      "linewidth": 1
+    },
+    {
+      "source": "布莱恩·辛格",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 1
+    },
+    {
+      "source": "布莱恩·辛格",
+      "target": "乔·赖特",
+      "linewidth": 1
+    },
+    {
+      "source": "米林宏昌",
+      "target": "是枝裕和",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯·哥伦布",
+      "target": "汤姆·提克威",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯·哥伦布",
+      "target": "理查德·柯蒂斯",
+      "linewidth": 2
+    },
+    {
+      "source": "克里斯·哥伦布",
+      "target": "雷德利·斯科特",
+      "linewidth": 1
+    },
+    {
+      "source": "森淳一",
+      "target": "是枝裕和",
+      "linewidth": 1
+    },
+    {
+      "source": "森淳一",
+      "target": "中岛哲也",
+      "linewidth": 1
+    },
+    {
+      "source": "钱运达",
+      "target": "徐景达",
+      "linewidth": 4
+    },
+    {
+      "source": "钱运达",
+      "target": "唐澄",
+      "linewidth": 5
+    },
+    {
+      "source": "邓肯·琼斯",
+      "target": "伦尼·阿伯拉罕森",
+      "linewidth": 1
+    },
+    {
+      "source": "麦兆辉",
+      "target": "王家卫",
+      "linewidth": 4
+    },
+    {
+      "source": "乔纳森·戴米",
+      "target": "马丁·斯科塞斯",
+      "linewidth": 1
+    },
+    {
+      "source": "柯克·德·米科",
+      "target": "克里斯·桑德斯",
+      "linewidth": 8
+    },
+    {
+      "source": "莉莉·沃卓斯基",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "马丁·麦克唐纳",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "马丁·麦克唐纳",
+      "target": "肯尼思·洛纳根",
       "linewidth": 1
     },
     {
@@ -3753,14 +3728,54 @@
       "linewidth": 2
     },
     {
-      "source": "涅提·蒂瓦里",
-      "target": "拉吉库马尔·希拉尼",
+      "source": "马丁·斯科塞斯",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "马丁·斯科塞斯",
+      "target": "肯尼思·洛纳根",
+      "linewidth": 1
+    },
+    {
+      "source": "徐景达",
+      "target": "唐澄",
+      "linewidth": 5
+    },
+    {
+      "source": "吴宇森",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "杰拉德·布什",
+      "target": "李·昂克里奇",
+      "linewidth": 1
+    },
+    {
+      "source": "杰拉德·布什",
+      "target": "大卫·西尔弗曼",
+      "linewidth": 1
+    },
+    {
+      "source": "杰拉德·布什",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "汤姆·提克威",
+      "target": "理查德·柯蒂斯",
       "linewidth": 1
     },
     {
       "source": "李·昂克里奇",
-      "target": "拜伦·霍华德",
-      "linewidth": 1
+      "target": "大卫·西尔弗曼",
+      "linewidth": 14
+    },
+    {
+      "source": "李·昂克里奇",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 2
     },
     {
       "source": "李·昂克里奇",
@@ -3769,127 +3784,85 @@
     },
     {
       "source": "李·昂克里奇",
-      "target": "阿德里安·莫利纳",
-      "linewidth": 23
-    },
-    {
-      "source": "李·昂克里奇",
-      "target": "杰拉德·布什",
-      "linewidth": 1
-    },
-    {
-      "source": "李·昂克里奇",
       "target": "罗纳尔多·德尔·卡门",
       "linewidth": 2
     },
     {
-      "source": "拜伦·霍华德",
-      "target": "杰拉德·布什",
-      "linewidth": 33
-    },
-    {
-      "source": "约翰·卡尼",
+      "source": "理查德·柯蒂斯",
       "target": "乔·赖特",
+      "linewidth": 2
+    },
+    {
+      "source": "理查德·柯蒂斯",
+      "target": "尼克·卡萨维蒂",
       "linewidth": 1
     },
     {
-      "source": "安德鲁·斯坦顿",
-      "target": "阿德里安·莫利纳",
+      "source": "克里斯·桑德斯",
+      "target": "克里斯·雷纳德",
       "linewidth": 1
+    },
+    {
+      "source": "大卫·西尔弗曼",
+      "target": "弗兰克·德拉邦特",
+      "linewidth": 1
+    },
+    {
+      "source": "大卫·西尔弗曼",
+      "target": "安德鲁·斯坦顿",
+      "linewidth": 1
+    },
+    {
+      "source": "大卫·西尔弗曼",
+      "target": "罗纳尔多·德尔·卡门",
+      "linewidth": 2
+    },
+    {
+      "source": "达伦·阿伦诺夫斯基",
+      "target": "吕克·贝松",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯托夫·巴拉蒂",
+      "target": "雅克·贝汉",
+      "linewidth": 1
+    },
+    {
+      "source": "尼克·卡萨维蒂",
+      "target": "伦尼·阿伯拉罕森",
+      "linewidth": 1
+    },
+    {
+      "source": "克里斯·雷纳德",
+      "target": "罗纳尔多·德尔·卡门",
+      "linewidth": 1
+    },
+    {
+      "source": "费尔南多·梅里尔斯",
+      "target": "卡迪亚·兰德",
+      "linewidth": 8
     },
     {
       "source": "安德鲁·斯坦顿",
       "target": "罗纳尔多·德尔·卡门",
       "linewidth": 5
-    },
-    {
-      "source": "梅尔·吉布森",
-      "target": "彼得·杰克逊",
-      "linewidth": 1
-    },
-    {
-      "source": "梅尔·吉布森",
-      "target": "丹尼·博伊尔",
-      "linewidth": 1
-    },
-    {
-      "source": "弗朗西斯·福特·科波拉",
-      "target": "赛尔乔·莱昂内",
-      "linewidth": 3
-    },
-    {
-      "source": "罗伯·明可夫",
-      "target": "肯尼思·洛纳根",
-      "linewidth": 1
-    },
-    {
-      "source": "肯尼思·洛纳根",
-      "target": "马丁·麦克唐纳",
-      "linewidth": 1
-    },
-    {
-      "source": "皮埃尔·柯芬",
-      "target": "罗纳尔多·德尔·卡门",
-      "linewidth": 1
-    },
-    {
-      "source": "乔治·库克",
-      "target": "山姆·伍德",
-      "linewidth": 32
-    },
-    {
-      "source": "阿德里安·莫利纳",
-      "target": "罗纳尔多·德尔·卡门",
-      "linewidth": 1
-    },
-    {
-      "source": "赛尔乔·莱昂内",
-      "target": "爱德华·兹威克",
-      "linewidth": 1
     }
   ],
   [
     {
-      "name": "德国"
+      "name": "中国"
     },
     {
-      "name": "黎巴嫩 "
+      "name": "中国"
     },
     {
-      "name": "法国"
-    },
-    {
-      "name": "瑞典"
-    },
-    {
-      "name": "阿根廷"
-    },
-    {
-      "name": "西班牙"
-    },
-    {
-      "name": "意大利"
-    },
-    {
-      "name": "巴西"
+      "name": "美国"
     },
     {
       "name": "澳大利亚"
     },
     {
-      "name": "新西兰 "
-    },
-    {
-      "name": "英国"
-    },
-    {
-      "name": "伊朗"
-    },
-    {
-      "name": "印度"
-    },
-    {
-      "name": "爱尔兰"
+      "name": "美国"
     },
     {
       "name": "日本"
@@ -3898,13 +3871,580 @@
       "name": "美国"
     },
     {
-      "name": "丹麦 "
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "意大利"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "德国"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "瑞典"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "法国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "印度"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "西班牙"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "印度"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "法国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "印度"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "法国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "德国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "澳大利亚"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "法国"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "阿根廷"
     },
     {
       "name": "泰国"
     },
     {
+      "name": "意大利"
+    },
+    {
       "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "意大利"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "意大利"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "印度"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "法国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "德国"
+    },
+    {
+      "name": "伊朗"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "泰国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "德国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "法国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "法国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "法国"
+    },
+    {
+      "name": "巴西"
+    },
+    {
+      "name": "韩国"
+    },
+    {
+      "name": "巴西"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "爱尔兰"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "中国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "丹麦 "
+    },
+    {
+      "name": "美国"
+    },
+    {
+      "name": "日本"
+    },
+    {
+      "name": "黎巴嫩 "
+    },
+    {
+      "name": "英国"
+    },
+    {
+      "name": "法国"
     },
     {
       "name": "韩国"
