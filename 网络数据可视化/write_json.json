@@ -1,0 +1,686 @@
+[
+  [
+    {
+      "name": "钱运达",
+      "category": "钱运达",
+      "value": 26,
+      "symbolSize": 26
+    },
+    {
+      "name": "郭柯",
+      "category": "郭柯",
+      "value": 1,
+      "symbolSize": 1
+    },
+    {
+      "name": "徐景达",
+      "category": "徐景达",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "李惠民",
+      "category": "李惠民",
+      "value": 14,
+      "symbolSize": 14
+    },
+    {
+      "name": "程小东",
+      "category": "程小东",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "宁浩",
+      "category": "宁浩",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "陈凯歌",
+      "category": "陈凯歌",
+      "value": 20,
+      "symbolSize": 20
+    },
+    {
+      "name": "王晶",
+      "category": "王晶",
+      "value": 13,
+      "symbolSize": 13
+    },
+    {
+      "name": "严定宪",
+      "category": "严定宪",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "罗启锐",
+      "category": "罗启锐",
+      "value": 20,
+      "symbolSize": 20
+    },
+    {
+      "name": "刘镇伟",
+      "category": "刘镇伟",
+      "value": 22,
+      "symbolSize": 22
+    },
+    {
+      "name": "唐澄",
+      "category": "唐澄",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
+      "name": "麦兆辉",
+      "category": "麦兆辉",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "陆川",
+      "category": "陆川",
+      "value": 6,
+      "symbolSize": 6
+    },
+    {
+      "name": "周申",
+      "category": "周申",
+      "value": 12,
+      "symbolSize": 12
+    },
+    {
+      "name": "忻钰坤",
+      "category": "忻钰坤",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "黄信尧",
+      "category": "黄信尧",
+      "value": 17,
+      "symbolSize": 17
+    },
+    {
+      "name": "李安",
+      "category": "李安",
+      "value": 43,
+      "symbolSize": 43
+    },
+    {
+      "name": "李力持",
+      "category": "李力持",
+      "value": 27,
+      "symbolSize": 27
+    },
+    {
+      "name": "万籁鸣",
+      "category": "万籁鸣",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
+      "name": "杨德昌",
+      "category": "杨德昌",
+      "value": 29,
+      "symbolSize": 29
+    },
+    {
+      "name": "陈可辛",
+      "category": "陈可辛",
+      "value": 8,
+      "symbolSize": 8
+    },
+    {
+      "name": "文牧野",
+      "category": "文牧野",
+      "value": 19,
+      "symbolSize": 19
+    },
+    {
+      "name": "徐克",
+      "category": "徐克",
+      "value": 7,
+      "symbolSize": 7
+    },
+    {
+      "name": "刘露",
+      "category": "刘露",
+      "value": 12,
+      "symbolSize": 12
+    },
+    {
+      "name": "张艺谋",
+      "category": "张艺谋",
+      "value": 15,
+      "symbolSize": 15
+    },
+    {
+      "name": "周星驰",
+      "category": "周星驰",
+      "value": 29,
+      "symbolSize": 29
+    },
+    {
+      "name": "吴宇森",
+      "category": "吴宇森",
+      "value": 16,
+      "symbolSize": 16
+    },
+    {
+      "name": "刘伟强",
+      "category": "刘伟强",
+      "value": 18,
+      "symbolSize": 18
+    },
+    {
+      "name": "王家卫",
+      "category": "王家卫",
+      "value": 21,
+      "symbolSize": 21
+    },
+    {
+      "name": "王树忱",
+      "category": "王树忱",
+      "value": 28,
+      "symbolSize": 28
+    },
+    {
+      "name": "姜文",
+      "category": "姜文",
+      "value": 67,
+      "symbolSize": 67
+    }
+  ],
+  [
+    {
+      "source": "钱运达",
+      "target": "徐景达",
+      "linewidth": 4
+    },
+    {
+      "source": "钱运达",
+      "target": "严定宪",
+      "linewidth": 4
+    },
+    {
+      "source": "钱运达",
+      "target": "唐澄",
+      "linewidth": 5
+    },
+    {
+      "source": "钱运达",
+      "target": "万籁鸣",
+      "linewidth": 5
+    },
+    {
+      "source": "钱运达",
+      "target": "王树忱",
+      "linewidth": 26
+    },
+    {
+      "source": "徐景达",
+      "target": "严定宪",
+      "linewidth": 6
+    },
+    {
+      "source": "徐景达",
+      "target": "唐澄",
+      "linewidth": 5
+    },
+    {
+      "source": "徐景达",
+      "target": "万籁鸣",
+      "linewidth": 5
+    },
+    {
+      "source": "徐景达",
+      "target": "王树忱",
+      "linewidth": 6
+    },
+    {
+      "source": "李惠民",
+      "target": "王晶",
+      "linewidth": 3
+    },
+    {
+      "source": "李惠民",
+      "target": "刘镇伟",
+      "linewidth": 3
+    },
+    {
+      "source": "李惠民",
+      "target": "陈可辛",
+      "linewidth": 1
+    },
+    {
+      "source": "李惠民",
+      "target": "徐克",
+      "linewidth": 2
+    },
+    {
+      "source": "李惠民",
+      "target": "周星驰",
+      "linewidth": 1
+    },
+    {
+      "source": "李惠民",
+      "target": "王家卫",
+      "linewidth": 3
+    },
+    {
+      "source": "程小东",
+      "target": "陈凯歌",
+      "linewidth": 1
+    },
+    {
+      "source": "程小东",
+      "target": "刘镇伟",
+      "linewidth": 2
+    },
+    {
+      "source": "程小东",
+      "target": "徐克",
+      "linewidth": 1
+    },
+    {
+      "source": "程小东",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "程小东",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "宁浩",
+      "target": "文牧野",
+      "linewidth": 1
+    },
+    {
+      "source": "宁浩",
+      "target": "张艺谋",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "刘镇伟",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "李力持",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "张艺谋",
+      "linewidth": 2
+    },
+    {
+      "source": "陈凯歌",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "陈凯歌",
+      "target": "姜文",
+      "linewidth": 2
+    },
+    {
+      "source": "王晶",
+      "target": "刘镇伟",
+      "linewidth": 3
+    },
+    {
+      "source": "王晶",
+      "target": "李力持",
+      "linewidth": 5
+    },
+    {
+      "source": "王晶",
+      "target": "徐克",
+      "linewidth": 1
+    },
+    {
+      "source": "王晶",
+      "target": "周星驰",
+      "linewidth": 2
+    },
+    {
+      "source": "王晶",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "严定宪",
+      "target": "唐澄",
+      "linewidth": 5
+    },
+    {
+      "source": "严定宪",
+      "target": "万籁鸣",
+      "linewidth": 5
+    },
+    {
+      "source": "严定宪",
+      "target": "王树忱",
+      "linewidth": 6
+    },
+    {
+      "source": "罗启锐",
+      "target": "李力持",
+      "linewidth": 1
+    },
+    {
+      "source": "罗启锐",
+      "target": "陈可辛",
+      "linewidth": 1
+    },
+    {
+      "source": "刘镇伟",
+      "target": "麦兆辉",
+      "linewidth": 2
+    },
+    {
+      "source": "刘镇伟",
+      "target": "李安",
+      "linewidth": 1
+    },
+    {
+      "source": "刘镇伟",
+      "target": "李力持",
+      "linewidth": 5
+    },
+    {
+      "source": "刘镇伟",
+      "target": "陈可辛",
+      "linewidth": 1
+    },
+    {
+      "source": "刘镇伟",
+      "target": "徐克",
+      "linewidth": 2
+    },
+    {
+      "source": "刘镇伟",
+      "target": "周星驰",
+      "linewidth": 3
+    },
+    {
+      "source": "刘镇伟",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "刘镇伟",
+      "target": "刘伟强",
+      "linewidth": 2
+    },
+    {
+      "source": "刘镇伟",
+      "target": "王家卫",
+      "linewidth": 7
+    },
+    {
+      "source": "刘镇伟",
+      "target": "姜文",
+      "linewidth": 1
+    },
+    {
+      "source": "唐澄",
+      "target": "万籁鸣",
+      "linewidth": 7
+    },
+    {
+      "source": "唐澄",
+      "target": "王树忱",
+      "linewidth": 6
+    },
+    {
+      "source": "麦兆辉",
+      "target": "李安",
+      "linewidth": 1
+    },
+    {
+      "source": "麦兆辉",
+      "target": "李力持",
+      "linewidth": 1
+    },
+    {
+      "source": "麦兆辉",
+      "target": "陈可辛",
+      "linewidth": 1
+    },
+    {
+      "source": "麦兆辉",
+      "target": "刘伟强",
+      "linewidth": 18
+    },
+    {
+      "source": "麦兆辉",
+      "target": "王家卫",
+      "linewidth": 4
+    },
+    {
+      "source": "麦兆辉",
+      "target": "姜文",
+      "linewidth": 2
+    },
+    {
+      "source": "周申",
+      "target": "刘露",
+      "linewidth": 12
+    },
+    {
+      "source": "黄信尧",
+      "target": "杨德昌",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "杨德昌",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "刘伟强",
+      "linewidth": 1
+    },
+    {
+      "source": "李安",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "李力持",
+      "target": "张艺谋",
+      "linewidth": 1
+    },
+    {
+      "source": "李力持",
+      "target": "周星驰",
+      "linewidth": 10
+    },
+    {
+      "source": "李力持",
+      "target": "刘伟强",
+      "linewidth": 1
+    },
+    {
+      "source": "万籁鸣",
+      "target": "王树忱",
+      "linewidth": 6
+    },
+    {
+      "source": "杨德昌",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "陈可辛",
+      "target": "徐克",
+      "linewidth": 1
+    },
+    {
+      "source": "陈可辛",
+      "target": "刘伟强",
+      "linewidth": 1
+    },
+    {
+      "source": "陈可辛",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "徐克",
+      "target": "吴宇森",
+      "linewidth": 1
+    },
+    {
+      "source": "徐克",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "张艺谋",
+      "target": "姜文",
+      "linewidth": 2
+    },
+    {
+      "source": "周星驰",
+      "target": "姜文",
+      "linewidth": 1
+    },
+    {
+      "source": "吴宇森",
+      "target": "王家卫",
+      "linewidth": 1
+    },
+    {
+      "source": "吴宇森",
+      "target": "姜文",
+      "linewidth": 1
+    },
+    {
+      "source": "刘伟强",
+      "target": "王家卫",
+      "linewidth": 4
+    },
+    {
+      "source": "刘伟强",
+      "target": "姜文",
+      "linewidth": 2
+    },
+    {
+      "source": "王家卫",
+      "target": "姜文",
+      "linewidth": 1
+    }
+  ],
+  [
+    {
+      "name": "钱运达"
+    },
+    {
+      "name": "郭柯"
+    },
+    {
+      "name": "徐景达"
+    },
+    {
+      "name": "李惠民"
+    },
+    {
+      "name": "程小东"
+    },
+    {
+      "name": "宁浩"
+    },
+    {
+      "name": "陈凯歌"
+    },
+    {
+      "name": "王晶"
+    },
+    {
+      "name": "严定宪"
+    },
+    {
+      "name": "罗启锐"
+    },
+    {
+      "name": "刘镇伟"
+    },
+    {
+      "name": "唐澄"
+    },
+    {
+      "name": "麦兆辉"
+    },
+    {
+      "name": "陆川"
+    },
+    {
+      "name": "周申"
+    },
+    {
+      "name": "忻钰坤"
+    },
+    {
+      "name": "黄信尧"
+    },
+    {
+      "name": "李安"
+    },
+    {
+      "name": "李力持"
+    },
+    {
+      "name": "万籁鸣"
+    },
+    {
+      "name": "杨德昌"
+    },
+    {
+      "name": "陈可辛"
+    },
+    {
+      "name": "文牧野"
+    },
+    {
+      "name": "徐克"
+    },
+    {
+      "name": "刘露"
+    },
+    {
+      "name": "张艺谋"
+    },
+    {
+      "name": "周星驰"
+    },
+    {
+      "name": "吴宇森"
+    },
+    {
+      "name": "刘伟强"
+    },
+    {
+      "name": "王家卫"
+    },
+    {
+      "name": "王树忱"
+    },
+    {
+      "name": "姜文"
+    }
+  ]
+]
