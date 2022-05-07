@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\地理数据可视化\2022北京冬奥会奖牌榜.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
